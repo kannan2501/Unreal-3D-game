@@ -1,0 +1,424 @@
+﻿Log file open, 09/22/17 09:46:28
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: GK
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1312947726) SRandInit(1312947726).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179560
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.22-04.16.28:653][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.22-04.16.28:653][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.22-04.16.28:677][  0]LogInit: Computer: BEAST
+[2017.09.22-04.16.28:677][  0]LogInit: User: holmes
+[2017.09.22-04.16.28:677][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.22-04.16.28:677][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2017.09.22-04.16.28:677][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.09.22-04.16.28:677][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.22-04.16.28:677][  0]LogMemory: Process Physical Memory: 277.55 MB used, 277.55 MB peak
+[2017.09.22-04.16.28:677][  0]LogMemory: Process Virtual Memory: 274.48 MB used, 274.48 MB peak
+[2017.09.22-04.16.28:677][  0]LogMemory: Physical Memory: 7038.13 MB used,  25662.67 MB free, 32700.80 MB total
+[2017.09.22-04.16.28:677][  0]LogMemory: Virtual Memory: 670.00 MB used,  25662.67 MB free, 134217728.00 MB total
+[2017.09.22-04.16.28:789][  0]LogInit: Using OS detected language (en-US).
+[2017.09.22-04.16.28:789][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.22-04.16.28:791][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.22-04.16.29:462][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.22-04.16.30:075][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.09.22-04.16.30:075][  0]LogD3D11RHI:       8094/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.22-04.16.30:076][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.22-04.16.30:076][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.22-04.16.30:076][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.22-04.16.30:080][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.22-04.16.30:080][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.22-04.16.30:080][  0]LogWindows: EnumDisplayDevices:
+[2017.09.22-04.16.30:080][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.09.22-04.16.30:080][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.22-04.16.30:080][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.22-04.16.30:081][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.22-04.16.30:081][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.22-04.16.30:081][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.09.22-04.16.30:081][  0]LogD3D11RHI:   Driver Version: 385.41 (internal:22.21.13.8541, unified:385.41)
+[2017.09.22-04.16.30:081][  0]LogD3D11RHI:      Driver Date: 8-21-2017
+[2017.09.22-04.16.30:081][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.22-04.16.30:658][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.22-04.16.30:692][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.22-04.16.30:736][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/Shaders/WorkingDirectory/944/).
+[2017.09.22-04.16.30:737][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/holmes/AppData/Local/Temp/UnrealShaderWorkingDir/87E5F02D406402E54FFA479AE77B0EAE/'.
+[2017.09.22-04.16.30:737][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.22-04.16.31:595][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.22-04.16.31:631][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.22-04.16.31:667][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.22-04.16.31:704][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.22-04.16.31:740][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.22-04.16.31:776][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.22-04.16.31:812][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.22-04.16.31:848][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.22-04.16.31:878][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.22-04.16.31:916][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.22-04.16.31:952][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.22-04.16.31:988][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.22-04.16.32:024][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.22-04.16.32:060][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.22-04.16.32:096][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.22-04.16.32:167][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.22-04.16.32:167][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.22-04.16.32:192][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.22-04.16.32:262][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.22-04.16.32:284][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.22-04.16.32:323][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.22-04.16.32:366][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.22-04.16.32:405][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.22-04.16.32:441][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.22-04.16.32:441][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.22-04.16.32:770][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.22-04.16.32:856][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.22-04.16.32:856][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.22-04.16.32:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.22-04.16.32:856][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.22-04.16.32:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.22-04.16.32:856][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.22-04.16.32:875][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.22-04.16.32:886][  0]LogDerivedDataCache: Using Local data cache path C:/Users/holmes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.22-04.16.32:897][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.22-04.16.32:897][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.22-04.16.32:898][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.22-04.16.32:898][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.22-04.16.33:143][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2017.09.22-04.16.33:255][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.22-04.16.33:389][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.22-04.16.33:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.22-04.16.33:630][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.22-04.16.33:630][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.22-04.16.33:630][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.22-04.16.33:630][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.22-04.16.33:630][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.22-04.16.33:954][  0]LogNetVersion: GK , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2388994846)
+[2017.09.22-04.16.34:122][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.035083 seconds
+[2017.09.22-04.16.34:127][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.22-04.16.34:127][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.22-04.16.34:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.22-04.16.34:167][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.22-04.16.36:251][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.22-04.16.36:279][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.22-04.16.36:731][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.22-04.16.37:018][  0]SourceControl: Source control is disabled
+[2017.09.22-04.16.37:018][  0]SourceControl: Source control is disabled
+[2017.09.22-04.16.37:050][  0]SourceControl: Source control is disabled
+[2017.09.22-04.16.37:079][  0]SourceControl: Source control is disabled
+[2017.09.22-04.16.37:450][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.22-04.16.37:616][  0]LogOcInput: OculusInput pre-init called
+[2017.09.22-04.16.37:796][  0]LogEngine: Initializing Engine...
+[2017.09.22-04.16.37:798][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.22-04.16.38:045][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.22-04.16.38:045][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.22-04.16.38:136][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.22-04.16.38:141][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.16.38:150][  0]LogInit: FAudioDevice initialized.
+[2017.09.22-04.16.38:228][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.22-04.16.38:244][  0]LogInit: Texture streaming: Enabled
+[2017.09.22-04.16.38:313][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.22-04.16.38:452][  0]LogInit: Transaction tracking system initialized
+[2017.09.22-04.16.38:643][  0]BlueprintLog: New page: Editor Load
+[2017.09.22-04.16.39:194][  0]LocalizationService: Localization service is disabled
+[2017.09.22-04.16.39:941][  0]LogConsoleResponse: Display: 
+[2017.09.22-04.16.40:095][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.22-04.16.40:096][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.22-04.16.40:096][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.22-04.16.40:719][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' took 0.01s
+[2017.09.22-04.16.40:749][  0]SourceControl: Source control is disabled
+[2017.09.22-04.16.40:749][  0]Cmd: MAP LOAD FILE="../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.22-04.16.40:750][  0]LightingResults: New page: Lighting Build
+[2017.09.22-04.16.40:776][  0]MapCheck: New page: Map Check
+[2017.09.22-04.16.40:776][  0]LightingResults: New page: Lighting Build
+[2017.09.22-04.16.41:669][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.16.41:725][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.22-04.16.41:736][  0]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (5534584) to: (1048576)
+[2017.09.22-04.16.41:778][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.22-04.16.41:823][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.255ms to complete.
+[2017.09.22-04.16.41:823][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.074
+[2017.09.22-04.16.41:894][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.22-04.16.41:968][  0]LogCollectionManager: Loaded 0 collections in 0.000836 seconds
+[2017.09.22-04.16.42:032][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/Collections/' took 0.01s
+[2017.09.22-04.16.42:032][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Developers/holmes/Collections/' took 0.01s
+[2017.09.22-04.16.42:032][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Collections/' took 0.01s
+[2017.09.22-04.16.42:032][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.22-04.16.42:041][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2386 classes and 500 folders.
+[2017.09.22-04.16.42:081][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.22-04.16.42:110][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.09.22-04.16.42:138][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.22-04.16.42:221][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.22-04.16.42:223][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.22-04.16.42:227][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.22-04.16.42:313][  0]LogRenderer: Reallocating scene render targets to support 1332x352 Format 9 NumSamples 1 (Frame:1).
+[2017.09.22-04.16.42:470][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.09.22-04.16.42:470][  0]LogLoad: (Engine Initialization) Total time: 15.01 seconds
+[2017.09.22-04.16.42:470][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.22-04.16.42:470][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.22-04.16.42:511][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.09.22-04.16.42:550][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-04.16.42:570][  1]LogAssetRegistry: Asset discovery search completed in 9.4487 seconds
+[2017.09.22-04.16.42:572][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.22-04.16.42:572][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2017.09.22-04.16.45:252][161]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.16.45:300][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.45:300][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.16.45:300][161]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 3:16:45 PM)
+[2017.09.22-04.16.45:300][161]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-04.16.45:545][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.245352s)
+[2017.09.22-04.16.45:546][161]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.16.45:547][161]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2017.09.22-04.16.45:547][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.246962s)
+[2017.09.22-04.16.45:557][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.16.45:564][161]LogInit: FAudioDevice initialized.
+[2017.09.22-04.16.45:605][161]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.16.45:639][161]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.09.22-09.46.45
+[2017.09.22-04.16.45:641][161]LogWorld: Bringing up level for play took: 0.032525
+[2017.09.22-04.16.45:667][161]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.09.22-04.16.45:668][161]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.396
+[2017.09.22-04.16.45:668][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.51:355][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.51:426][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.59:807][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2017.09.22-04.17.34:116][ 46]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-04.17.35:031][ 46]LogSavePackage: Save=882.89ms
+[2017.09.22-04.17.35:031][ 46]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMapA3CDBF9344D32DB4A9FF41B135115FFD.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.09.22-04.17.35:033][ 46]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.09.22-04.17.35:062][ 46]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.22-04.17.36:167][ 46]LogSavePackage: Save=1098.61ms
+[2017.09.22-04.17.36:167][ 46]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap_BuiltDataC77FC36E411ECA2862DE8DA2DFD851DC.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.09.22-04.17.36:169][ 46]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.09.22-04.17.39:154][224]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.17.39:171][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.17.39:171][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.17.39:171][224]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 3:17:39 PM)
+[2017.09.22-04.17.39:171][224]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-04.17.39:414][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.242432s)
+[2017.09.22-04.17.39:415][224]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.17.39:415][224]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2017.09.22-04.17.39:415][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.243774s)
+[2017.09.22-04.17.39:426][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.17.39:432][224]LogInit: FAudioDevice initialized.
+[2017.09.22-04.17.39:465][224]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.17.39:497][224]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.09.22-09.47.39
+[2017.09.22-04.17.39:499][224]LogWorld: Bringing up level for play took: 0.032272
+[2017.09.22-04.17.39:500][224]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.565
+[2017.09.22-04.17.39:500][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.17.42:525][405]LogHttp: Warning: 00000262FE2BCE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.17.42:525][405]LogHttp: Warning: 00000262FE2BCE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.17.42:525][405]LogHttp: Warning: 00000262FE2BCE80: libcurl info message cache 1 (Closing connection 0)
+[2017.09.22-04.17.42:837][423]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-369.338 Y=157.356 Z=497.632] for [FirstPersonProjectile_C]
+[2017.09.22-04.18.11:821][162]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.22-04.18.11:822][162]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.22-04.18.25:272][969]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_17
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.22-04.18.25:272][969]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.22-04.18.27:540][105]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_19
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.22-04.18.27:540][105]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.22-04.18.27:557][106]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_19
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.22-04.18.27:557][106]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.22-04.18.33:242][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.18.33:327][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.18.36:231][618]MapCheck: New page: Map Check
+[2017.09.22-04.18.36:379][618]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.22-04.18.36:380][618]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.22-04.18.36:727][618]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (5534584) to: (1048576)
+[2017.09.22-04.18.38:765][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.22-04.18.38:778][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.09.22-04.18.38:785][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2017.09.22-04.18.38:792][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.09.22-04.18.38:800][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Brick_Hewn_Stone_Mat, compiling. 
+[2017.09.22-04.18.38:808][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Wood_Floor_Walnut_M_Mat, compiling. 
+[2017.09.22-04.18.38:817][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles, compiling. 
+[2017.09.22-04.18.38:826][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_CobbleStone_Rough_Mat, compiling. 
+[2017.09.22-04.18.38:834][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_CobbleStone_Pebble_Mat, compiling. 
+[2017.09.22-04.18.38:843][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Brick_Clay_Old_Mat, compiling. 
+[2017.09.22-04.18.38:849][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.09.22-04.18.38:857][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2017.09.22-04.18.38:865][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Wood_Pine_Mat, compiling. 
+[2017.09.22-04.18.38:870][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2017.09.22-04.18.38:877][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2017.09.22-04.18.38:883][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2017.09.22-04.18.38:888][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2017.09.22-04.18.38:894][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.09.22-04.18.38:901][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2017.09.22-04.18.38:914][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.09.22-04.18.38:925][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.09.22-04.18.38:936][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2017.09.22-04.18.40:119][618]TextureStreamingBuild: Display: Compiling optional shaders took 1.360 seconds.
+[2017.09.22-04.18.40:224][618]LogLevel: Display: Export Material TexCoord Scales took 0.105 seconds.
+[2017.09.22-04.18.40:308][618]TextureStreamingBuild: Display: Build Texture Streaming took 0.082 seconds.
+[2017.09.22-04.18.40:354][618]LightingResults: New page: Lighting Build - Sep 22, 2017, 3:18:40 PM
+[2017.09.22-04.18.40:514][618]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.22-04.18.40:694][618]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.22-04.18.40:721][618]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.22-04.18.41:743][618]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.22-04.18.41:744][618]LogSwarmInterface: [TryOpenConnection] Local Process ID is 944
+[2017.09.22-04.18.41:817][618]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.22-04.18.41:817][618]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.22-04.18.41:817][618]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.22-04.18.41:817][618]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.22-04.18.41:817][618]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.22-04.18.41:966][618]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.22-04.18.41:967][618]MapCheck: New page: FirstPersonExampleMap - Sep 22, 2017, 3:18:41 PM
+[2017.09.22-04.18.41:968][618]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2017.09.22-04.18.42:013][618]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 47.013ms to complete.
+[2017.09.22-04.18.42:036][618]LogEditorBuildUtils: Build time 0:05
+[2017.09.22-04.18.42:303][620]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer T_Wood_Pine_Mat, compiling. 
+[2017.09.22-04.18.42:313][620]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer T_Wood_Pine_Mat, compiling. 
+[2017.09.22-04.18.42:351][621]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer T_CobbleStone_Pebble_Mat, compiling. 
+[2017.09.22-04.18.42:359][621]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer T_CobbleStone_Pebble_Mat, compiling. 
+[2017.09.22-04.18.57:108][303]Job has failed! Job is closed while Tasks are still PENDING
+[2017.09.22-04.18.57:109][303]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed.
+[2017.09.22-04.18.57:822][303]DumpUnbuiltLightIteractions
+[2017.09.22-04.18.57:822][303]Lights with unbuilt interactions: 1
+[2017.09.22-04.18.57:822][303]    Light LightSource
+[2017.09.22-04.18.57:822][303]
+[2017.09.22-04.18.57:822][303]Primitives with unbuilt interactions: 2
+[2017.09.22-04.18.57:822][303]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Shape_Pipe_2.StaticMeshComponent0
+[2017.09.22-04.18.57:822][303]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Shape_Pipe2.StaticMeshComponent0
+[2017.09.22-04.18.57:866][304]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.22-04.18.57:866][304]MapCheck: New page: FirstPersonExampleMap - Sep 22, 2017, 3:18:57 PM
+[2017.09.22-04.18.57:873][304]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2017.09.22-04.18.57:934][304]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 67.954ms to complete.
+[2017.09.22-04.19.04:605][324]MapCheck: New page: Map Check
+[2017.09.22-04.19.04:620][324]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.22-04.19.04:620][324]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.22-04.19.04:858][324]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (5534584) to: (1048576)
+[2017.09.22-04.19.07:669][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.22-04.19.07:677][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.09.22-04.19.07:686][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2017.09.22-04.19.07:694][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.09.22-04.19.07:703][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Brick_Hewn_Stone_Mat, compiling. 
+[2017.09.22-04.19.07:712][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Wood_Floor_Walnut_M_Mat, compiling. 
+[2017.09.22-04.19.07:721][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles, compiling. 
+[2017.09.22-04.19.07:731][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_CobbleStone_Rough_Mat, compiling. 
+[2017.09.22-04.19.07:739][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_CobbleStone_Pebble_Mat, compiling. 
+[2017.09.22-04.19.07:748][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Brick_Clay_Old_Mat, compiling. 
+[2017.09.22-04.19.07:757][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.09.22-04.19.07:767][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2017.09.22-04.19.07:776][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T_Wood_Pine_Mat, compiling. 
+[2017.09.22-04.19.07:784][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2017.09.22-04.19.07:792][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2017.09.22-04.19.07:800][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2017.09.22-04.19.07:807][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2017.09.22-04.19.07:816][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2017.09.22-04.19.07:831][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.09.22-04.19.07:843][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.09.22-04.19.07:853][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.09.22-04.19.07:866][324]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2017.09.22-04.19.09:703][324]TextureStreamingBuild: Display: Compiling optional shaders took 2.040 seconds.
+[2017.09.22-04.19.09:719][324]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2017.09.22-04.19.09:728][324]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2017.09.22-04.19.09:752][324]LightingResults: New page: Lighting Build - Sep 22, 2017, 3:19:09 PM
+[2017.09.22-04.19.09:761][324]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.22-04.19.09:795][324]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.22-04.19.09:796][324]LogSwarmInterface: [TryOpenConnection] Testing the Agent

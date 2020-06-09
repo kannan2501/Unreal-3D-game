@@ -1,0 +1,675 @@
+﻿Log file open, 09/29/17 07:57:22
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: GK1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(280071810) SRandInit(280071810).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180879
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '192.168.49.1:8282'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.29-02.27.23:369][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.29-02.27.23:369][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.29-02.27.23:402][  0]LogInit: Computer: BEAST
+[2017.09.29-02.27.23:402][  0]LogInit: User: holmes
+[2017.09.29-02.27.23:402][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.29-02.27.23:402][  0]LogInit: High frequency timer resolution =2.531255 MHz
+[2017.09.29-02.27.23:402][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.09.29-02.27.23:402][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.29-02.27.23:402][  0]LogMemory: Process Physical Memory: 277.58 MB used, 277.58 MB peak
+[2017.09.29-02.27.23:402][  0]LogMemory: Process Virtual Memory: 274.46 MB used, 274.46 MB peak
+[2017.09.29-02.27.23:402][  0]LogMemory: Physical Memory: 3570.17 MB used,  29130.63 MB free, 32700.80 MB total
+[2017.09.29-02.27.23:402][  0]LogMemory: Virtual Memory: 670.00 MB used,  29130.63 MB free, 134217728.00 MB total
+[2017.09.29-02.27.24:320][  0]LogInit: Using OS detected language (en-US).
+[2017.09.29-02.27.24:320][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.29-02.27.24:625][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.29-02.27.32:129][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.29-02.27.32:858][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.09.29-02.27.32:858][  0]LogD3D11RHI:       8094/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.29-02.27.32:861][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.29-02.27.32:861][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.29-02.27.32:861][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.29-02.27.32:896][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.29-02.27.32:896][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.29-02.27.32:896][  0]LogWindows: EnumDisplayDevices:
+[2017.09.29-02.27.32:896][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.09.29-02.27.32:896][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.29-02.27.32:897][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.29-02.27.32:897][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.29-02.27.32:898][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.29-02.27.32:898][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.09.29-02.27.32:898][  0]LogD3D11RHI:   Driver Version: 385.41 (internal:22.21.13.8541, unified:385.41)
+[2017.09.29-02.27.32:898][  0]LogD3D11RHI:      Driver Date: 8-21-2017
+[2017.09.29-02.27.32:898][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.29-02.27.33:621][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.29-02.27.34:032][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.29-02.27.34:180][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/Shaders/WorkingDirectory/14276/).
+[2017.09.29-02.27.34:180][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/holmes/AppData/Local/Temp/UnrealShaderWorkingDir/7BAFC317450BD5BA9B37799BCDB642DE/'.
+[2017.09.29-02.27.34:191][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.29-02.27.41:078][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.29-02.27.41:146][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.29-02.27.41:210][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.29-02.27.41:281][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.29-02.27.41:395][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.29-02.27.41:450][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.29-02.27.41:491][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.29-02.27.41:531][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.29-02.27.41:566][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.29-02.27.41:611][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.29-02.27.41:652][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.29-02.27.41:691][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.29-02.27.41:732][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.29-02.27.41:774][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.29-02.27.41:817][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.29-02.27.41:896][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.29-02.27.41:896][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.29-02.27.41:927][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.29-02.27.42:185][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.29-02.27.42:261][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.29-02.27.42:352][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.29-02.27.42:433][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.29-02.27.42:494][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.29-02.27.42:544][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.29-02.27.42:544][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.29-02.27.44:780][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.29-02.27.45:095][  0]LogDerivedDataCache: Loaded boot cache 0.31s 93MB C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.29-02.27.45:095][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.29-02.27.45:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.29-02.27.45:095][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.29-02.27.45:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.29-02.27.45:095][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.29-02.27.45:262][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.29-02.27.45:276][  0]LogDerivedDataCache: Using Local data cache path C:/Users/holmes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.29-02.27.45:360][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.29-02.27.45:444][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.29-02.27.45:560][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.29-02.27.45:577][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.29-02.27.58:237][  0]LogAssetRegistry: FAssetRegistry took 0.0361 seconds to start up
+[2017.09.29-02.27.59:746][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.29-02.28.03:085][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.29-02.28.03:203][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.29-02.28.03:213][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.29-02.28.03:214][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.29-02.28.03:214][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.29-02.28.03:214][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.29-02.28.03:358][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.29-02.28.04:871][  0]LogConfig: Warning: Failed to saved backup for config[TemplateDefs]
+[2017.09.29-02.28.07:330][  0]LogNetVersion: GK1 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2152401544)
+[2017.09.29-02.28.09:230][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/5a627529.bin
+[2017.09.29-02.28.09:280][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/1d5167fa.bin
+[2017.09.29-02.28.09:289][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/866581fd.bin
+[2017.09.29-02.28.09:300][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.09:801][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.10:302][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.10:802][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.11:302][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.11:803][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.12:303][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.12:804][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.13:305][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.13:805][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin', retrying in .5s...
+[2017.09.29-02.28.14:306][  0]LogFileManager: Error: Error moving file '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin'.
+[2017.09.29-02.28.14:358][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 5.176898 seconds
+[2017.09.29-02.28.14:374][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.29-02.28.14:374][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.29-02.28.14:374][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.29-02.28.14:499][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.29-02.28.28:887][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.29-02.28.28:987][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.29-02.28.31:344][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.29-02.28.32:883][  0]SourceControl: Source control is disabled
+[2017.09.29-02.28.32:883][  0]SourceControl: Source control is disabled
+[2017.09.29-02.28.32:961][  0]SourceControl: Source control is disabled
+[2017.09.29-02.28.33:011][  0]SourceControl: Source control is disabled
+[2017.09.29-02.28.34:283][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.29-02.28.34:669][  0]LogOcInput: OculusInput pre-init called
+[2017.09.29-02.28.35:624][  0]LogEngine: Initializing Engine...
+[2017.09.29-02.28.35:661][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.29-02.28.36:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.29-02.28.36:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.29-02.28.37:525][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.29-02.28.37:696][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.29-02.28.37:731][  0]LogInit: FAudioDevice initialized.
+[2017.09.29-02.28.37:773][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.29-02.28.37:804][  0]LogInit: Texture streaming: Enabled
+[2017.09.29-02.28.38:123][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.29-02.28.39:299][  0]LogInit: Transaction tracking system initialized
+[2017.09.29-02.28.41:063][  0]BlueprintLog: New page: Editor Load
+[2017.09.29-02.28.45:259][  0]LogConfig: Warning: Failed to saved backup for config[LocalizationServiceSettings]
+[2017.09.29-02.28.45:261][  0]LocalizationService: Localization service is disabled
+[2017.09.29-02.28.49:734][  0]LogConsoleResponse: Display: 
+[2017.09.29-02.28.52:995][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' took 0.02s
+[2017.09.29-02.28.52:995][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.29-02.28.52:995][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.29-02.28.53:045][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.29-02.28.58:591][  0]SourceControl: Source control is disabled
+[2017.09.29-02.28.59:023][  0]Cmd: MAP LOAD FILE="../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-02.28.59:318][  0]LightingResults: New page: Lighting Build
+[2017.09.29-02.28.59:713][  0]MapCheck: New page: Map Check
+[2017.09.29-02.28.59:713][  0]LightingResults: New page: Lighting Build
+[2017.09.29-02.29.15:574][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.29-02.29.16:705][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-02.29.16:763][  0]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (5534584) to: (1048576)
+[2017.09.29-02.29.16:928][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-02.29.17:025][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.214ms to complete.
+[2017.09.29-02.29.17:025][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 18.156
+[2017.09.29-02.29.20:520][  0]LogCollectionManager: Loaded 0 collections in 0.003834 seconds
+[2017.09.29-02.29.20:909][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/Collections/' took 0.01s
+[2017.09.29-02.29.20:909][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Developers/holmes/Collections/' took 0.01s
+[2017.09.29-02.29.20:909][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Collections/' took 0.01s
+[2017.09.29-02.29.20:909][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.29-02.29.20:966][  0]LogContentBrowser: Native class hierarchy populated in 0.0473 seconds. Added 2386 classes and 500 folders.
+[2017.09.29-02.29.21:331][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0149 seconds. Added 0 classes and 0 folders.
+[2017.09.29-02.29.25:580][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2017.09.29-02.29.25:921][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2017.09.29-02.29.31:268][  0]LogSlate: Took 0.061549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.29-02.29.31:395][  0]LogSlate: Took 0.064356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.29-02.29.31:599][  0]LogSlate: Took 0.047438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.29-02.29.33:041][  0]LogRenderer: Reallocating scene render targets to support 1292x508 Format 9 NumSamples 1 (Frame:1).
+[2017.09.29-02.29.35:244][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2017.09.29-02.29.35:244][  0]LogLoad: (Engine Initialization) Total time: 133.60 seconds
+[2017.09.29-02.29.35:244][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.29-02.29.35:245][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.29-02.29.35:798][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.09.29-02.29.36:212][  0]LogSlate: Took 0.066794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.29-02.29.37:790][  5]LogAssetRegistry: Asset discovery search completed in 99.5743 seconds
+[2017.09.29-02.29.37:796][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.29-02.29.37:796][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000140 seconds (updated 0 objects)
+[2017.09.29-02.29.40:865][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.29-02.29.41:093][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.29-02.29.41:094][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.29-02.29.41:137][ 17]PIE: New page: PIE session: FirstPersonExampleMap (Sep 29, 2017, 1:29:41 PM)
+[2017.09.29-02.29.41:137][ 17]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.29-02.29.41:631][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.493315s)
+[2017.09.29-02.29.41:633][ 17]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.29-02.29.41:633][ 17]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2017.09.29-02.29.41:634][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.496149s)
+[2017.09.29-02.29.41:664][ 17]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.29-02.29.41:677][ 17]LogInit: FAudioDevice initialized.
+[2017.09.29-02.29.41:769][ 17]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.29-02.29.41:844][ 17]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.09.29-07.59.41
+[2017.09.29-02.29.41:967][ 17]LogWorld: Bringing up level for play took: 0.179262
+[2017.09.29-02.29.42:135][ 17]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0023 seconds. Added 11 classes and 0 folders.
+[2017.09.29-02.29.42:159][ 17]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.094
+[2017.09.29-02.29.42:159][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.29-02.29.59:732][698]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1729.072 Y=889.758 Z=291.546] for [FirstPersonProjectile_C]
+[2017.09.29-02.30.16:457][199]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.29-02.30.16:464][199]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.29-02.30.16:465][199]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.29-02.30.16:465][199]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.29-02.30.16:482][200]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.29-02.30.16:482][200]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.29-02.30.16:529][202]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:02E0
+[2017.09.29-02.30.16:530][202]PIE: Error: Blueprint Runtime Error: Attempted to access Sphere via property Sphere, but Sphere is pending kill from function: 'ExecuteUbergraph_FirstPersonProjectile' from node: DestroyComponent in graph: EventGraph in object: FirstPersonProjectile with description: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+[2017.09.29-02.30.27:021][551]LogNet: Browse: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.29-02.30.27:049][551]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.29-02.30.27:143][551]Cmd: MEM
+[2017.09.29-02.30.27:235][551]LogMemory: Platform Memory Stats for Windows
+[2017.09.29-02.30.27:235][551]LogMemory: Process Physical Memory: 1377.16 MB used, 1605.68 MB peak
+[2017.09.29-02.30.27:235][551]LogMemory: Process Virtual Memory: 1822.47 MB used, 2044.58 MB peak
+[2017.09.29-02.30.27:235][551]LogMemory: Physical Memory: 6152.81 MB used,  26547.98 MB free, 32700.80 MB total
+[2017.09.29-02.30.27:235][551]LogMemory: Virtual Memory: 2677.53 MB used,  26547.98 MB free, 134217728.00 MB total
+[2017.09.29-02.30.27:235][551]LogMemory: 
+[2017.09.29-02.30.27:235][551]Allocator Stats for TBB: (not implemented)
+[2017.09.29-02.31.23:126][551]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.29-02.31.23:127][551]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.29-02.31.23:294][551]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 60) at 2017.09.29-08.01.23
+[2017.09.29-02.31.23:326][551]LogWorld: Bringing up level for play took: 0.192678
+[2017.09.29-02.31.23:345][551]LogLoad: Took 56.296709 seconds to LoadMap(/Game/FirstPersonBP/Maps/screenshot_map)
+[2017.09.29-02.31.23:439][552]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2017.09.29-02.31.23:440][552]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085297 > MaxSimulationTimeStep (0.050) for 'killerAI2_94', movement 'Walking'
+[2017.09.29-02.31.23:599][554]LogHttp: Warning: 000002848EEE1F00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.09.29-02.31.23:599][554]LogHttp: Warning: 000002848EEE1F00: libcurl info message cache 0 (  Trying 192.168.49.1...)
+[2017.09.29-02.31.23:599][554]LogHttp: Warning: 000002848EEE1F00: libcurl info message cache 1 (connect to 192.168.49.1 port 8282 failed: Host unreachable)
+[2017.09.29-02.31.23:600][554]LogHttp: Warning: 000002848EEE1F00: libcurl info message cache 2 (Failed to connect to 192.168.49.1 port 8282: Host unreachable)
+[2017.09.29-02.31.23:600][554]LogHttp: Warning: 000002848EEE1F00: libcurl info message cache 3 (Closing connection 0)
+[2017.09.29-02.31.55:235][461]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-3.42 Y=-67.98 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2017.09.29-02.31.56:201][491]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (29 other events since notify)
+[2017.09.29-02.31.57:234][522]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2017.09.29-02.31.58:263][553]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (29 other events since notify)
+[2017.09.29-02.31.59:294][584]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-252.15 Y=-544.45 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2017.09.29-02.32.00:324][615]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-365.22 Y=-476.04 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2017.09.29-02.32.01:330][645]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-421.47 Y=-427.04 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (29 other events since notify)
+[2017.09.29-02.32.02:335][675]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-561.00 Y=212.79 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (29 other events since notify)
+[2017.09.29-02.32.03:296][704]LogCharacterMovement: mortaAIl11_1152 is stuck and failed to move! Velocity: X=311.57 Y=512.76 Z=0.00 Location: X=3906.05 Y=3845.12 Z=-99.85 Normal: X=-1.00 Y=0.05 Z=0.00 PenetrationDepth:0.564 Actor:mortaAIl21_1845 Component:CharacterMesh0 BoneName:calf_l (0 other events since notify)
+[2017.09.29-02.32.03:966][724]LogCharacterMovement: killerAI3_511 is stuck and failed to move! Velocity: X=-26.89 Y=62.15 Z=0.00 Location: X=4001.94 Y=3880.48 Z=-99.85 Normal: X=0.99 Y=0.15 Z=-0.00 PenetrationDepth:21.572 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.32.04:069][727]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=8.62 Y=66.81 Z=0.00 Location: X=3955.35 Y=3830.65 Z=-99.88 Normal: X=0.96 Y=0.27 Z=0.00 PenetrationDepth:8.907 Actor:mortaAIl30_664 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.29-02.32.06:504][800]LogCharacterMovement: killerAI3_511 is stuck and failed to move! Velocity: X=-26.78 Y=61.90 Z=0.00 Location: X=4001.94 Y=3880.48 Z=-99.85 Normal: X=0.88 Y=-0.47 Z=0.00 PenetrationDepth:2.778 Actor:mortaAIl21_1845 Component:CharacterMesh0 BoneName:thigh_l (29 other events since notify)
+[2017.09.29-02.32.06:507][800]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=8.13 Y=66.95 Z=0.00 Location: X=3956.20 Y=3830.08 Z=-99.88 Normal: X=-0.10 Y=-1.00 Z=-0.00 PenetrationDepth:7.808 Actor:mortaAIl21_1845 Component:CharacterMesh0 BoneName:calf_l (0 other events since notify)
+[2017.09.29-02.32.07:539][831]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=72.32 Y=595.63 Z=0.00 Location: X=3956.20 Y=3830.08 Z=-99.88 Normal: X=-0.10 Y=-1.00 Z=-0.00 PenetrationDepth:7.808 Actor:mortaAIl21_1845 Component:CharacterMesh0 BoneName:calf_l (30 other events since notify)
+[2017.09.29-02.32.07:571][832]LogCharacterMovement: killerAI3_511 is stuck and failed to move! Velocity: X=-27.40 Y=63.34 Z=0.00 Location: X=4001.94 Y=3880.48 Z=-99.85 Normal: X=0.88 Y=-0.47 Z=0.00 PenetrationDepth:2.778 Actor:mortaAIl21_1845 Component:CharacterMesh0 BoneName:thigh_l (15 other events since notify)
+[2017.09.29-02.32.08:572][862]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=72.32 Y=595.63 Z=0.00 Location: X=3956.20 Y=3830.08 Z=-99.88 Normal: X=-0.10 Y=-1.00 Z=-0.00 PenetrationDepth:7.808 Actor:mortaAIl21_1845 Component:CharacterMesh0 BoneName:calf_l (30 other events since notify)
+[2017.09.29-02.32.15:379][135]LogCharacterMovement: killerAI6_104 is stuck and failed to move! Velocity: X=561.15 Y=-212.39 Z=0.00 Location: X=6274.84 Y=9773.87 Z=237.90 Normal: X=-0.98 Y=-0.19 Z=-0.00 PenetrationDepth:1.866 Actor:mortaAIl14_1390 Component:CharacterMesh0 BoneName:foot_r (0 other events since notify)
+[2017.09.29-02.32.15:463][139]LogCharacterMovement: mortaAIl13_1297 is stuck and failed to move! Velocity: X=569.77 Y=188.06 Z=0.00 Location: X=6153.74 Y=9740.73 Z=129.60 Normal: X=0.59 Y=0.80 Z=0.00 PenetrationDepth:3.525 Actor:killerAI7_251 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.32.15:693][150]LogCharacterMovement: mortaAIl9_987 is stuck and failed to move! Velocity: X=405.92 Y=325.63 Z=0.00 Location: X=6247.41 Y=9704.33 Z=214.09 Normal: X=0.87 Y=-0.49 Z=-0.00 PenetrationDepth:6.786 Actor:killerAI7_251 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.32.16:017][165]LogCharacterMovement: mortaAIl32_817 is stuck and failed to move! Velocity: X=415.84 Y=48.24 Z=0.00 Location: X=6167.24 Y=9642.42 Z=151.84 Normal: X=-0.15 Y=0.99 Z=0.00 PenetrationDepth:4.159 Actor:mortaAIl_359 Component:CharacterMesh0 BoneName:lowerarm_r (0 other events since notify)
+[2017.09.29-02.32.16:710][198]LogCharacterMovement: mortaAIl9_987 is stuck and failed to move! Velocity: X=594.16 Y=83.50 Z=0.00 Location: X=6247.98 Y=9702.96 Z=215.14 Normal: X=0.32 Y=-0.67 Z=-0.67 PenetrationDepth:9.575 Actor:killerAI7_251 Component:CharacterMesh0 BoneName:hand_l (46 other events since notify)
+[2017.09.29-02.32.17:711][252]LogCharacterMovement: mortaAIl9_987 is stuck and failed to move! Velocity: X=599.93 Y=9.04 Z=0.00 Location: X=6249.45 Y=9700.55 Z=216.05 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.458 Actor:killerAI7_251 Component:CharacterMesh0 BoneName:hand_l (53 other events since notify)
+[2017.09.29-02.32.21:159][446]LogCharacterMovement: mortaAIl20_1808 is stuck and failed to move! Velocity: X=9.13 Y=-599.93 Z=0.00 Location: X=9152.34 Y=8885.35 Z=1534.39 Normal: X=-0.99 Y=0.17 Z=-0.00 PenetrationDepth:0.957 Actor:killerAI6_104 Component:CharacterMesh0 BoneName:foot_l (0 other events since notify)
+[2017.09.29-02.32.37:367][101]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=-296.49 Y=209.52 Z=0.00 Location: X=2472.63 Y=6121.10 Z=-99.82 Normal: X=-0.17 Y=-0.99 Z=0.00 PenetrationDepth:2.159 Actor:patrolAI3_53 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.29-02.32.38:507][166]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-481.02 Y=-358.64 Z=0.00 Location: X=460.39 Y=6994.46 Z=-99.85 Normal: X=-0.55 Y=0.83 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl25_364 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.32.39:414][216]LogCharacterMovement: mortaAIl22_1923 is stuck and failed to move! Velocity: X=-550.14 Y=-239.48 Z=0.00 Location: X=-9.38 Y=6914.48 Z=-99.92 Normal: X=-0.04 Y=0.95 Z=-0.30 PenetrationDepth:0.000 Actor:mortaAIl26_454 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.32.47:710][466]LogCharacterMovement: killerAI7_251 is stuck and failed to move! Velocity: X=129.65 Y=-564.11 Z=0.00 Location: X=212.10 Y=3118.24 Z=11.05 Normal: X=0.08 Y=0.94 Z=0.33 PenetrationDepth:8.277 Actor:mortaAIl25_364 Component:CharacterMesh0 BoneName:foot_r (0 other events since notify)
+[2017.09.29-02.33.00:189][898]LogCharacterMovement: mortaAIl25_364 is stuck and failed to move! Velocity: X=593.76 Y=-86.33 Z=0.00 Location: X=4934.92 Y=-2036.17 Z=-99.85 Normal: X=-0.35 Y=-0.94 Z=-0.00 PenetrationDepth:1.238 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.33.01:990][  5]LogCharacterMovement: killerAI7_251 is stuck and failed to move! Velocity: X=599.95 Y=-8.03 Z=0.00 Location: X=5580.68 Y=-2098.63 Z=10.62 Normal: X=0.74 Y=-0.67 Z=-0.00 PenetrationDepth:4.447 Actor:mortaAIl23_1985 Component:CharacterMesh0 BoneName:hand_l (1 other events since notify)
+[2017.09.29-02.33.04:671][ 95]LogCharacterMovement: mortaAIl22_1923 is stuck and failed to move! Velocity: X=-89.12 Y=120.67 Z=0.00 Location: X=7092.11 Y=-1294.57 Z=-99.85 Normal: X=0.98 Y=0.20 Z=-0.00 PenetrationDepth:3.972 Actor:mortaAIl26_454 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.33.04:869][101]LogCharacterMovement: killerAI3_511 is stuck and failed to move! Velocity: X=-188.10 Y=569.75 Z=0.00 Location: X=6860.42 Y=-1265.72 Z=-98.73 Normal: X=-0.92 Y=-0.40 Z=-0.00 PenetrationDepth:2.467 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:foot_r (7 other events since notify)
+[2017.09.29-02.33.04:934][103]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-419.21 Y=337.30 Z=0.00 Location: X=6962.04 Y=-1229.04 Z=-99.85 Normal: X=0.67 Y=-0.75 Z=0.00 PenetrationDepth:3.164 Actor:mortaAIl25_364 Component:CharacterMesh0 BoneName:ball_r (0 other events since notify)
+[2017.09.29-02.33.04:997][105]LogCharacterMovement: mortaAIl4_95 is stuck and failed to move! Velocity: X=16.25 Y=599.78 Z=0.00 Location: X=6705.73 Y=-1703.47 Z=-100.02 Normal: X=0.56 Y=-0.49 Z=-0.67 PenetrationDepth:0.000 Actor:killerAI7_251 Component:CharacterMesh0 BoneName:foot_l (0 other events since notify)
+[2017.09.29-02.33.04:999][105]LogCharacterMovement: mortaAIl11_1152 is stuck and failed to move! Velocity: X=-207.15 Y=437.28 Z=0.00 Location: X=6811.61 Y=-1336.82 Z=-99.66 Normal: X=0.22 Y=-0.97 Z=-0.00 PenetrationDepth:33.420 Actor:mortaAIl23_1985 Component:CharacterMesh0 BoneName:ball_l (2 other events since notify)
+[2017.09.29-02.33.05:931][133]LogCharacterMovement: mortaAIl5_214 is stuck and failed to move! Velocity: X=-67.99 Y=-5.39 Z=0.00 Location: X=6859.73 Y=-1163.42 Z=-99.98 Normal: X=-0.98 Y=-0.19 Z=0.00 PenetrationDepth:12.409 Actor:mortaAIl22_1923 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.29-02.33.05:953][134]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-40.59 Y=2.69 Z=0.00 Location: X=6801.27 Y=-1201.35 Z=-100.08 Normal: X=-0.11 Y=-0.99 Z=0.00 PenetrationDepth:6.567 Actor:killerAI4_734 Component:CharacterMesh0 BoneName:lowerarm_r (4 other events since notify)
+[2017.09.29-02.33.06:975][194]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-34.06 Y=2.26 Z=0.00 Location: X=6801.27 Y=-1201.35 Z=-100.08 Normal: X=-0.11 Y=-0.99 Z=0.00 PenetrationDepth:5.504 Actor:killerAI4_734 Component:CharacterMesh0 BoneName:lowerarm_r (46 other events since notify)
+[2017.09.29-02.33.07:991][255]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-68.12 Y=4.52 Z=0.00 Location: X=6801.27 Y=-1201.35 Z=-100.08 Normal: X=-0.11 Y=-0.99 Z=0.00 PenetrationDepth:5.504 Actor:killerAI4_734 Component:CharacterMesh0 BoneName:lowerarm_r (48 other events since notify)
+[2017.09.29-02.33.09:013][315]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-34.06 Y=2.26 Z=0.00 Location: X=6801.27 Y=-1201.35 Z=-100.08 Normal: X=-0.11 Y=-0.99 Z=0.00 PenetrationDepth:5.504 Actor:killerAI4_734 Component:CharacterMesh0 BoneName:lowerarm_r (46 other events since notify)
+[2017.09.29-02.33.10:024][362]LogCharacterMovement: mortaAIl26_454 is stuck and failed to move! Velocity: X=-34.06 Y=2.26 Z=0.00 Location: X=6801.27 Y=-1201.35 Z=-100.08 Normal: X=-0.11 Y=-0.99 Z=0.00 PenetrationDepth:5.504 Actor:killerAI4_734 Component:CharacterMesh0 BoneName:lowerarm_r (31 other events since notify)
+[2017.09.29-02.33.23:632][ 92]LogHttp: Warning: 00000284EBB95480: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.09.29-02.33.23:632][ 92]LogHttp: Warning: 00000284EBB95480: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.09.29-02.33.23:632][ 92]LogHttp: Warning: 00000284EBB95480: libcurl info message cache 1 (  Trying 192.168.49.1...)
+[2017.09.29-02.33.23:632][ 92]LogHttp: Warning: 00000284EBB95480: libcurl info message cache 2 (connect to 192.168.49.1 port 8282 failed: Host unreachable)
+[2017.09.29-02.33.23:632][ 92]LogHttp: Warning: 00000284EBB95480: libcurl info message cache 3 (Failed to connect to 192.168.49.1 port 8282: Host unreachable)
+[2017.09.29-02.33.23:632][ 92]LogHttp: Warning: 00000284EBB95480: libcurl info message cache 4 (Closing connection 1)
+[2017.09.29-02.35.12:083][826]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.29-02.35.12:236][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.29-02.35.12:290][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.29-02.35.12:547][827]Cmd: QUIT_EDITOR
+[2017.09.29-02.35.13:249][827]LogExit: Preparing to exit.
+[2017.09.29-02.35.14:220][827]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' was aborted.
+[2017.09.29-02.35.14:271][827]LogExit: Editor shut down
+[2017.09.29-02.35.14:288][827]LogExit: Transaction tracking system shut down
+[2017.09.29-02.35.14:557][827]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.29-02.35.14:557][827]LogDirectoryWatcher: A directory notification for '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' was aborted.
+[2017.09.29-02.35.14:558][827]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.29-02.35.14:558][827]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.29-02.35.14:558][827]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.29-02.35.16:066][827]LogExit: Object subsystem successfully closed.
+[2017.09.29-02.35.16:084][827]LogD3D11RHI: Shutdown
+[2017.09.29-02.35.16:084][827]LogD3D11RHI: CleanupD3DDevice
+[2017.09.29-02.35.16:222][827]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.29-02.35.16:230][827]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.09.29-02.35.16:230][827]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.29-02.35.16:230][827]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.29-02.35.16:230][827]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.29-02.35.16:230][827]LogDirectoryWatcher: A directory notification for 'D:/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.29-02.35.16:232][827]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Collections/' was aborted.
+[2017.09.29-02.35.16:232][827]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Developers/holmes/Collections/' was aborted.
+[2017.09.29-02.35.16:232][827]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/Collections/' was aborted.
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.29-02.35.16:232][827]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.29-02.35.16:233][827]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.29-02.35.16:817][827]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.29-02.35.16:817][827]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.29-02.35.16:817][827]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.29-02.35.16:817][827]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.29-02.35.16:818][827]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.29-02.35.16:819][827]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.29-02.35.16:819][827]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.29-02.35.16:819][827]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.29-02.35.16:819][827]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.29-02.35.16:819][827]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.29-02.35.16:819][827]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.29-02.35.16:871][827]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.29-02.35.16:872][827]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.29-02.35.16:873][827]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.29-02.35.17:034][827]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.29-02.35.17:035][827]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.29-02.35.17:036][827]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.29-02.35.17:036][827]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.29-02.35.17:036][827]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.29-02.35.17:037][827]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.29-02.35.17:137][827]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.29-02.35.17:238][827]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.29-02.35.17:238][827]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.29-02.35.17:238][827]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.29-02.35.17:238][827]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.29-02.35.17:238][827]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.29-02.35.17:238][827]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.29-02.35.17:239][827]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.29-02.35.17:241][827]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.29-02.35.17:242][827]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.29-02.35.17:276][827]LogDerivedDataCache: Shutdown
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.29-02.35.17:276][827]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.29-02.35.17:277][827]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.29-02.35.17:277][827]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.29-02.35.17:277][827]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.29-02.35.17:277][827]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B221A6F02-4290-2F52-2112-C19E2C9B6083%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=19edfe624dd9663309ee66aebb83c4f4%7C0a49e6af0eed4aed83a62093d2dcebfc%7Cfa3d7fbc-39ba-41fd-8587-cc489c0af589&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.29-02.35.17:277][827]LogHttp: Warning: 00000284EBB95000: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.09.29-02.35.17:277][827]LogHttp: Warning: 00000284EBB95000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.09.29-02.35.17:277][827]LogHttp: Warning: 00000284EBB95000: libcurl info message cache 1 (  Trying 192.168.49.1...)
+[2017.09.29-02.35.17:278][827]LogHttp: Warning: 00000284EBB95000: libcurl info message cache 2 (connect to 192.168.49.1 port 8282 failed: Host unreachable)
+[2017.09.29-02.35.17:278][827]LogHttp: Warning: 00000284EBB95000: libcurl info message cache 3 (Failed to connect to 192.168.49.1 port 8282: Host unreachable)
+[2017.09.29-02.35.17:278][827]LogHttp: Warning: 00000284EBB95000: libcurl info message cache 4 (Closing connection 2)
+[2017.09.29-02.35.17:281][827]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.29-02.35.17:283][827]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.29-02.35.17:284][827]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.29-02.35.17:288][827]LogExit: Exiting.
+[2017.09.29-02.35.17:302][827]Log file closed, 09/29/17 08:05:17

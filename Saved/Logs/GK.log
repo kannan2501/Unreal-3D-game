@@ -1,0 +1,1052 @@
+﻿Log file open, 09/22/17 09:20:33
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: GK
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1653760575) SRandInit(1653760575).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.413498
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.22-03.50.36:675][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.22-03.50.36:675][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.22-03.50.36:816][  0]LogInit: Computer: BEAST
+[2017.09.22-03.50.36:816][  0]LogInit: User: holmes
+[2017.09.22-03.50.36:816][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.22-03.50.36:816][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2017.09.22-03.50.36:816][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.09.22-03.50.36:825][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.22-03.50.36:825][  0]LogMemory: Process Physical Memory: 277.32 MB used, 277.32 MB peak
+[2017.09.22-03.50.36:825][  0]LogMemory: Process Virtual Memory: 274.34 MB used, 274.34 MB peak
+[2017.09.22-03.50.36:825][  0]LogMemory: Physical Memory: 3599.67 MB used,  29101.13 MB free, 32700.80 MB total
+[2017.09.22-03.50.36:825][  0]LogMemory: Virtual Memory: 670.00 MB used,  29101.13 MB free, 134217728.00 MB total
+[2017.09.22-03.50.38:443][  0]LogInit: Using OS detected language (en-US).
+[2017.09.22-03.50.38:443][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.22-03.50.38:768][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.22-03.50.44:049][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.22-03.50.44:703][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.09.22-03.50.44:704][  0]LogD3D11RHI:       8094/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.22-03.50.44:705][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.22-03.50.44:705][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.22-03.50.44:705][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.22-03.50.44:778][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.22-03.50.44:779][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.22-03.50.44:779][  0]LogWindows: EnumDisplayDevices:
+[2017.09.22-03.50.44:779][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.09.22-03.50.44:779][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.22-03.50.44:780][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.22-03.50.44:780][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.22-03.50.44:780][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.22-03.50.44:780][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.09.22-03.50.44:780][  0]LogD3D11RHI:   Driver Version: 385.41 (internal:22.21.13.8541, unified:385.41)
+[2017.09.22-03.50.44:780][  0]LogD3D11RHI:      Driver Date: 8-21-2017
+[2017.09.22-03.50.44:780][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.22-03.50.45:414][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.22-03.50.45:970][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.22-03.50.46:133][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/Shaders/WorkingDirectory/3852/).
+[2017.09.22-03.50.46:133][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/holmes/AppData/Local/Temp/UnrealShaderWorkingDir/5C047E7E42D9922FC019DDB279FEC1A6/'.
+[2017.09.22-03.50.46:149][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.22-03.50.51:341][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.22-03.50.51:384][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.22-03.50.51:425][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.22-03.50.51:471][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.22-03.50.51:576][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.22-03.50.51:623][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.22-03.50.51:663][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.22-03.50.51:706][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.22-03.50.51:739][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.22-03.50.51:811][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.22-03.50.51:850][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.22-03.50.51:889][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.22-03.50.51:928][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.22-03.50.51:967][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.22-03.50.52:004][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.22-03.50.52:084][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.22-03.50.52:084][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.22-03.50.52:120][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.22-03.50.52:326][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.22-03.50.52:366][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.22-03.50.52:404][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.22-03.50.52:453][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.22-03.50.52:490][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.22-03.50.52:559][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.22-03.50.52:559][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.22-03.50.54:307][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.22-03.50.54:540][  0]LogDerivedDataCache: Loaded boot cache 0.23s 93MB C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.22-03.50.54:540][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.22-03.50.54:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.22-03.50.54:540][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.22-03.50.54:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.22-03.50.54:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.22-03.50.54:683][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.22-03.50.54:716][  0]LogDerivedDataCache: Using Local data cache path C:/Users/holmes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.22-03.50.54:801][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.22-03.50.54:871][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.22-03.50.55:083][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.22-03.50.55:101][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.22-03.51.05:964][  0]LogAssetRegistry: FAssetRegistry took 0.0614 seconds to start up
+[2017.09.22-03.51.07:916][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.22-03.51.10:981][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/CachedAssetRegistry.bin
+[2017.09.22-03.51.10:981][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.22-03.51.12:089][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.22-03.51.12:195][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.22-03.51.12:249][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.22-03.51.12:250][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.22-03.51.12:250][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.22-03.51.12:250][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.22-03.51.17:111][  0]LogNetVersion: GK , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2388994846)
+[2017.09.22-03.51.19:339][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/5a627529.bin
+[2017.09.22-03.51.19:375][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/1d5167fa.bin
+[2017.09.22-03.51.19:384][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/94c5d5a7.bin
+[2017.09.22-03.51.19:395][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Intermediate/AssetRegistryCache/f0d5030c.bin
+[2017.09.22-03.51.19:406][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.072200 seconds
+[2017.09.22-03.51.19:438][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.22-03.51.19:438][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.22-03.51.19:438][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.22-03.51.19:519][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.22-03.51.36:055][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.22-03.51.36:133][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.22-03.51.37:179][  0]LogConfig: Warning: Failed to saved backup for config[InternationalizationExport]
+[2017.09.22-03.51.38:035][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.22-03.51.39:203][  0]SourceControl: Source control is disabled
+[2017.09.22-03.51.39:203][  0]SourceControl: Source control is disabled
+[2017.09.22-03.51.39:312][  0]SourceControl: Source control is disabled
+[2017.09.22-03.51.39:361][  0]SourceControl: Source control is disabled
+[2017.09.22-03.51.40:315][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.22-03.51.40:521][  0]LogOcInput: OculusInput pre-init called
+[2017.09.22-03.51.41:265][  0]LogEngine: Initializing Engine...
+[2017.09.22-03.51.41:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.22-03.51.42:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.22-03.51.42:244][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.22-03.51.42:758][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.22-03.51.42:863][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-03.51.42:879][  0]LogInit: FAudioDevice initialized.
+[2017.09.22-03.51.42:902][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/holmes/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.22-03.51.42:971][  0]LogInit: Texture streaming: Enabled
+[2017.09.22-03.51.43:164][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.22-03.51.44:612][  0]LogInit: Transaction tracking system initialized
+[2017.09.22-03.51.46:114][  0]BlueprintLog: New page: Editor Load
+[2017.09.22-03.51.51:081][  0]LocalizationService: Localization service is disabled
+[2017.09.22-03.51.54:870][  0]LogConsoleResponse: Display: 
+[2017.09.22-03.52.00:511][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' took 0.06s
+[2017.09.22-03.52.00:511][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.22-03.52.00:511][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.22-03.52.00:565][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.22-03.52.07:259][  0]SourceControl: Source control is disabled
+[2017.09.22-03.52.07:450][  0]Cmd: MAP LOAD FILE="../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.22-03.52.07:600][  0]LightingResults: New page: Lighting Build
+[2017.09.22-03.52.08:183][  0]MapCheck: New page: Map Check
+[2017.09.22-03.52.08:183][  0]LightingResults: New page: Lighting Build
+[2017.09.22-03.52.23:634][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-03.52.25:622][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.22-03.52.25:853][  0]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (5534584) to: (1048576)
+[2017.09.22-03.52.26:098][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.22-03.52.26:195][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.684ms to complete.
+[2017.09.22-03.52.26:195][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 18.849
+[2017.09.22-03.52.31:446][  0]LogCollectionManager: Loaded 0 collections in 0.001117 seconds
+[2017.09.22-03.52.31:841][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/Collections/' took 0.01s
+[2017.09.22-03.52.31:841][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Developers/holmes/Collections/' took 0.01s
+[2017.09.22-03.52.31:841][  0]LogFileCache: Scanning file cache for directory 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Collections/' took 0.01s
+[2017.09.22-03.52.31:841][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.22-03.52.31:865][  0]LogContentBrowser: Native class hierarchy populated in 0.0229 seconds. Added 2386 classes and 500 folders.
+[2017.09.22-03.52.31:972][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.22-03.52.32:772][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.22-03.52.32:877][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.09.22-03.52.35:886][  0]LogSlate: Took 0.118686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.22-03.52.35:925][  0]LogSlate: Took 0.023714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.22-03.52.36:116][  0]LogSlate: Took 0.057241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.22-03.52.37:457][  0]LogRenderer: Reallocating scene render targets to support 968x436 Format 9 NumSamples 1 (Frame:1).
+[2017.09.22-03.52.40:073][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2017.09.22-03.52.40:073][  0]LogLoad: (Engine Initialization) Total time: 134.98 seconds
+[2017.09.22-03.52.40:073][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.22-03.52.40:084][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.22-03.52.40:520][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.09.22-03.52.40:811][  1]LogAssetRegistry: Asset discovery search completed in 94.8879 seconds
+[2017.09.22-03.52.40:813][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.22-03.52.40:813][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.09.22-03.52.41:207][  1]LogSlate: Took 0.096230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-03.53.40:146][207]LogHttp: Warning: 0000015050473A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-03.53.40:147][207]LogHttp: Warning: 0000015050473A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-03.53.40:147][207]LogHttp: Warning: 0000015050473A00: libcurl info message cache 1 (Closing connection 0)
+[2017.09.22-03.53.45:580][827]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-03.53.45:853][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.53.45:853][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-03.53.45:894][827]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 2:53:45 PM)
+[2017.09.22-03.53.45:894][827]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-03.53.46:165][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.271518s)
+[2017.09.22-03.53.46:166][827]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-03.53.46:167][827]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2017.09.22-03.53.46:167][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.273178s)
+[2017.09.22-03.53.46:180][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-03.53.46:188][827]LogInit: FAudioDevice initialized.
+[2017.09.22-03.53.46:237][827]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-03.53.46:324][827]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2017.09.22-09.23.46
+[2017.09.22-03.53.46:502][827]LogWorld: Bringing up level for play took: 0.239249
+[2017.09.22-03.53.46:580][827]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.22-03.53.46:584][827]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.52
+[2017.09.22-03.53.46:595][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.53.48:719][ 38]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=60.42 Y=10.94 Z=0.00 Location: X=-998.28 Y=-40.36 Z=291.52 Normal: X=-0.49 Y=0.87 Z=0.00 PenetrationDepth:0.212 Actor:mortaAIl_64 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-03.54.17:178][433]LogNet: Browse: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.22-03.54.17:178][433]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.22-03.54.17:238][433]Cmd: MEM
+[2017.09.22-03.54.17:282][433]LogMemory: Platform Memory Stats for Windows
+[2017.09.22-03.54.17:282][433]LogMemory: Process Physical Memory: 1362.05 MB used, 1554.81 MB peak
+[2017.09.22-03.54.17:282][433]LogMemory: Process Virtual Memory: 1652.22 MB used, 1843.31 MB peak
+[2017.09.22-03.54.17:282][433]LogMemory: Physical Memory: 5091.34 MB used,  27609.45 MB free, 32700.80 MB total
+[2017.09.22-03.54.17:282][433]LogMemory: Virtual Memory: 2466.87 MB used,  27609.45 MB free, 134217728.00 MB total
+[2017.09.22-03.54.17:282][433]LogMemory: 
+[2017.09.22-03.54.17:282][433]Allocator Stats for TBB: (not implemented)
+[2017.09.22-03.54.31:119][433]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-03.54.31:119][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-03.54.31:235][433]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 0) at 2017.09.22-09.24.31
+[2017.09.22-03.54.31:273][433]LogWorld: Bringing up level for play took: 0.153153
+[2017.09.22-03.54.31:293][433]LogLoad: Took 14.114552 seconds to LoadMap(/Game/FirstPersonBP/Maps/screenshot_map)
+[2017.09.22-03.54.31:394][434]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061972 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2017.09.22-03.54.52:581][868]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-0.91 Y=-18.19 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2017.09.22-03.54.52:626][873]LogCharacterMovement: killerAI_603 is stuck and failed to move! Velocity: X=-275.58 Y=-88.08 Z=0.00 Location: X=6381.75 Y=-505.67 Z=-99.85 Normal: X=0.42 Y=-0.91 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl_359 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-03.54.53:589][979]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (110 other events since notify)
+[2017.09.22-03.54.54:595][ 90]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (110 other events since notify)
+[2017.09.22-03.54.55:602][197]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (106 other events since notify)
+[2017.09.22-03.54.56:609][304]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (106 other events since notify)
+[2017.09.22-03.54.58:503][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.54.58:568][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.55.08:061][628]LogRenderer: Reallocating scene render targets to support 972x436 Format 9 NumSamples 1 (Frame:2990).
+[2017.09.22-03.55.08:104][629]LogRenderer: Reallocating scene render targets to support 980x436 Format 9 NumSamples 1 (Frame:2992).
+[2017.09.22-03.55.08:146][630]LogRenderer: Reallocating scene render targets to support 992x436 Format 9 NumSamples 1 (Frame:2994).
+[2017.09.22-03.55.08:187][631]LogRenderer: Reallocating scene render targets to support 1004x436 Format 9 NumSamples 1 (Frame:2996).
+[2017.09.22-03.55.08:230][632]LogRenderer: Reallocating scene render targets to support 1032x436 Format 9 NumSamples 1 (Frame:2998).
+[2017.09.22-03.55.08:275][633]LogRenderer: Reallocating scene render targets to support 1044x436 Format 9 NumSamples 1 (Frame:3000).
+[2017.09.22-03.55.08:318][634]LogRenderer: Reallocating scene render targets to support 1052x436 Format 9 NumSamples 1 (Frame:3002).
+[2017.09.22-03.55.08:360][635]LogRenderer: Reallocating scene render targets to support 1088x436 Format 9 NumSamples 1 (Frame:3004).
+[2017.09.22-03.55.08:403][636]LogRenderer: Reallocating scene render targets to support 1148x436 Format 9 NumSamples 1 (Frame:3006).
+[2017.09.22-03.55.08:447][637]LogRenderer: Reallocating scene render targets to support 1172x436 Format 9 NumSamples 1 (Frame:3008).
+[2017.09.22-03.55.08:489][638]LogRenderer: Reallocating scene render targets to support 1176x436 Format 9 NumSamples 1 (Frame:3010).
+[2017.09.22-03.55.08:536][640]LogRenderer: Reallocating scene render targets to support 1180x436 Format 9 NumSamples 1 (Frame:3013).
+[2017.09.22-03.55.08:580][641]LogRenderer: Reallocating scene render targets to support 1184x436 Format 9 NumSamples 1 (Frame:3015).
+[2017.09.22-03.55.08:620][642]LogRenderer: Reallocating scene render targets to support 1200x436 Format 9 NumSamples 1 (Frame:3017).
+[2017.09.22-03.55.11:240][938]LogRenderer: Reallocating scene render targets to support 1200x440 Format 9 NumSamples 1 (Frame:3318).
+[2017.09.22-03.55.11:283][939]LogRenderer: Reallocating scene render targets to support 1200x448 Format 9 NumSamples 1 (Frame:3320).
+[2017.09.22-03.55.11:324][940]LogRenderer: Reallocating scene render targets to support 1200x452 Format 9 NumSamples 1 (Frame:3322).
+[2017.09.22-03.55.11:364][941]LogRenderer: Reallocating scene render targets to support 1200x460 Format 9 NumSamples 1 (Frame:3324).
+[2017.09.22-03.55.11:405][942]LogRenderer: Reallocating scene render targets to support 1200x464 Format 9 NumSamples 1 (Frame:3326).
+[2017.09.22-03.55.11:452][943]LogRenderer: Reallocating scene render targets to support 1200x476 Format 9 NumSamples 1 (Frame:3328).
+[2017.09.22-03.55.11:504][944]LogRenderer: Reallocating scene render targets to support 1200x488 Format 9 NumSamples 1 (Frame:3330).
+[2017.09.22-03.55.11:547][945]LogRenderer: Reallocating scene render targets to support 1200x516 Format 9 NumSamples 1 (Frame:3332).
+[2017.09.22-03.55.11:591][946]LogRenderer: Reallocating scene render targets to support 1200x540 Format 9 NumSamples 1 (Frame:3334).
+[2017.09.22-03.55.11:634][947]LogRenderer: Reallocating scene render targets to support 1200x564 Format 9 NumSamples 1 (Frame:3336).
+[2017.09.22-03.55.11:676][948]LogRenderer: Reallocating scene render targets to support 1200x580 Format 9 NumSamples 1 (Frame:3338).
+[2017.09.22-03.55.11:733][949]LogRenderer: Reallocating scene render targets to support 1200x592 Format 9 NumSamples 1 (Frame:3340).
+[2017.09.22-03.55.11:785][950]LogRenderer: Reallocating scene render targets to support 1200x616 Format 9 NumSamples 1 (Frame:3342).
+[2017.09.22-03.55.11:833][951]LogRenderer: Reallocating scene render targets to support 1200x640 Format 9 NumSamples 1 (Frame:3344).
+[2017.09.22-03.55.11:874][952]LogRenderer: Reallocating scene render targets to support 1200x656 Format 9 NumSamples 1 (Frame:3346).
+[2017.09.22-03.55.11:920][953]LogRenderer: Reallocating scene render targets to support 1200x668 Format 9 NumSamples 1 (Frame:3348).
+[2017.09.22-03.55.11:975][954]LogRenderer: Reallocating scene render targets to support 1200x680 Format 9 NumSamples 1 (Frame:3350).
+[2017.09.22-03.55.12:027][955]LogRenderer: Reallocating scene render targets to support 1200x684 Format 9 NumSamples 1 (Frame:3352).
+[2017.09.22-03.55.13:673][142]LogRenderer: Reallocating scene render targets to support 1208x684 Format 9 NumSamples 1 (Frame:3543).
+[2017.09.22-03.55.13:714][143]LogRenderer: Reallocating scene render targets to support 1216x684 Format 9 NumSamples 1 (Frame:3545).
+[2017.09.22-03.55.13:754][144]LogRenderer: Reallocating scene render targets to support 1224x684 Format 9 NumSamples 1 (Frame:3547).
+[2017.09.22-03.55.13:806][145]LogRenderer: Reallocating scene render targets to support 1288x684 Format 9 NumSamples 1 (Frame:3549).
+[2017.09.22-03.55.13:857][146]LogRenderer: Reallocating scene render targets to support 1360x684 Format 9 NumSamples 1 (Frame:3551).
+[2017.09.22-03.55.13:902][147]LogRenderer: Reallocating scene render targets to support 1364x684 Format 9 NumSamples 1 (Frame:3553).
+[2017.09.22-03.55.13:951][148]LogRenderer: Reallocating scene render targets to support 1448x684 Format 9 NumSamples 1 (Frame:3555).
+[2017.09.22-03.55.13:998][149]LogRenderer: Reallocating scene render targets to support 1480x684 Format 9 NumSamples 1 (Frame:3557).
+[2017.09.22-03.55.25:172][472]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.09.22-03.55.33:645][442]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-03.55.33:661][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.55.33:661][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-03.55.33:662][442]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 2:55:33 PM)
+[2017.09.22-03.55.33:662][442]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-03.55.33:903][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.241436s)
+[2017.09.22-03.55.33:904][442]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-03.55.33:905][442]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2017.09.22-03.55.33:905][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.243282s)
+[2017.09.22-03.55.33:917][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-03.55.33:924][442]LogInit: FAudioDevice initialized.
+[2017.09.22-03.55.33:958][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-03.55.33:989][442]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2017.09.22-09.25.33
+[2017.09.22-03.55.33:990][442]LogWorld: Bringing up level for play took: 0.031414
+[2017.09.22-03.55.33:991][442]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.073
+[2017.09.22-03.55.33:992][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.55.37:702][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-135.176 Y=114.620 Z=494.272] for [FirstPersonProjectile_C]
+[2017.09.22-03.55.40:168][175]LogHttp: Warning: 00000150733D4280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-03.55.40:168][175]LogHttp: Warning: 00000150733D4280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-03.55.40:168][175]LogHttp: Warning: 00000150733D4280: libcurl info message cache 1 (Closing connection 1)
+[2017.09.22-03.56.12:480][ 51]LogNet: Browse: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.22-03.56.12:481][ 51]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.22-03.56.12:534][ 51]Cmd: MEM
+[2017.09.22-03.56.12:544][ 51]LogMemory: Platform Memory Stats for Windows
+[2017.09.22-03.56.12:544][ 51]LogMemory: Process Physical Memory: 5059.79 MB used, 5282.95 MB peak
+[2017.09.22-03.56.12:544][ 51]LogMemory: Process Virtual Memory: 5664.55 MB used, 6103.02 MB peak
+[2017.09.22-03.56.12:544][ 51]LogMemory: Physical Memory: 8723.61 MB used,  23977.19 MB free, 32700.80 MB total
+[2017.09.22-03.56.12:544][ 51]LogMemory: Virtual Memory: 6763.62 MB used,  23977.19 MB free, 134217728.00 MB total
+[2017.09.22-03.56.12:544][ 51]LogMemory: 
+[2017.09.22-03.56.12:544][ 51]Allocator Stats for TBB: (not implemented)
+[2017.09.22-03.56.13:066][ 51]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-03.56.13:066][ 51]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-03.56.13:106][ 51]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 0) at 2017.09.22-09.26.13
+[2017.09.22-03.56.13:114][ 51]LogWorld: Bringing up level for play took: 0.047266
+[2017.09.22-03.56.13:117][ 51]LogLoad: Took 0.636597 seconds to LoadMap(/Game/FirstPersonBP/Maps/screenshot_map)
+[2017.09.22-03.56.13:136][ 52]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061951 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2017.09.22-03.56.53:949][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.56.53:997][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-03.57.16:216][644]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-03.57.16:790][644]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-03.57.16:836][644]Cmd: MAP LOAD FILE="../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/screenshot_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.22-03.57.16:836][644]LightingResults: New page: Lighting Build
+[2017.09.22-03.57.16:836][644]LoadErrors: New page: Loading map: screenshot_map.umap
+[2017.09.22-03.57.16:838][644]MapCheck: New page: Map Check
+[2017.09.22-03.57.16:838][644]LightingResults: New page: Lighting Build
+[2017.09.22-03.57.17:109][644]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.22-03.57.17:152][644]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.22-03.57.17:213][644]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.466ms to complete.
+[2017.09.22-03.57.17:213][644]LogFileHelpers: Loading map 'screenshot_map' took 0.378
+[2017.09.22-03.57.25:763][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LargePlainsBoulder23)
+[2017.09.22-03.57.26:668][706]LogEditorViewport: Clicking on Actor (LMB): mortaAIl_C (mortaAIl4)
+[2017.09.22-03.57.36:835][802]LogEditorViewport: Clicking on Actor (LMB): mortaAIl_C (mortaAIl5)
+[2017.09.22-03.57.40:178][190]LogHttp: Warning: 0000015166E87880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-03.57.40:178][190]LogHttp: Warning: 0000015166E87880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-03.57.40:178][190]LogHttp: Warning: 0000015166E87880: libcurl info message cache 1 (Closing connection 2)
+[2017.09.22-03.57.50:564][417]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.09.22-03.57.51:132][473]LogEditorViewport: Clicking on Actor (LMB): mortaAIl_C (mortaAIl16)
+[2017.09.22-03.58.37:058][621]LogEditorViewport: Clicking on Actor (LMB): mortaAIl_C (mortaAIl20)
+[2017.09.22-03.58.40:268][978]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.09.22-03.58.44:651][442]LogEditorViewport: Clicking on Actor (LMB): killerAI_C (killerAI7)
+[2017.09.22-03.59.14:186][742]Cmd: TRANSACTION UNDO
+[2017.09.22-03.59.14:186][742]LogEditorTransaction: Undo Scale Actors
+[2017.09.22-03.59.14:239][742]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-03.59.15:508][874]LogEditorViewport: Clicking on Actor (LMB): killerAI_C (killerAI7)
+[2017.09.22-03.59.40:205][734]LogHttp: Warning: 0000015032FD8580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-03.59.40:205][734]LogHttp: Warning: 0000015032FD8580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-03.59.40:205][734]LogHttp: Warning: 0000015032FD8580: libcurl info message cache 1 (Closing connection 3)
+[2017.09.22-03.59.59:360][923]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-03.59.59:378][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-03.59.59:378][923]PIE: New page: PIE session: screenshot_map (Sep 22, 2017, 2:59:59 PM)
+[2017.09.22-03.59.59:378][923]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map
+[2017.09.22-03.59.59:452][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074273s)
+[2017.09.22-03.59.59:453][923]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-03.59.59:454][923]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2017.09.22-03.59.59:454][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/screenshot_map.screenshot_map to /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map (0.076107s)
+[2017.09.22-03.59.59:467][923]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-03.59.59:473][923]LogInit: FAudioDevice initialized.
+[2017.09.22-03.59.59:505][923]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-03.59.59:552][923]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 0) at 2017.09.22-09.29.59
+[2017.09.22-03.59.59:561][923]LogWorld: Bringing up level for play took: 0.054412
+[2017.09.22-03.59.59:563][923]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map -0.501
+[2017.09.22-04.00.11:007][269]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6715.446 Y=6229.971 Z=-56.162] for [FirstPersonProjectile_C]
+[2017.09.22-04.00.15:977][837]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.00.15:994][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.00.15:994][837]PIE: New page: PIE session: screenshot_map (Sep 22, 2017, 3:00:15 PM)
+[2017.09.22-04.00.15:994][837]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map
+[2017.09.22-04.00.16:066][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071283s)
+[2017.09.22-04.00.16:066][837]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-04.00.16:066][837]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2017.09.22-04.00.16:067][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/screenshot_map.screenshot_map to /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map (0.072463s)
+[2017.09.22-04.00.16:078][837]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.00.16:084][837]LogInit: FAudioDevice initialized.
+[2017.09.22-04.00.16:115][837]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.00.16:163][837]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 0) at 2017.09.22-09.30.16
+[2017.09.22-04.00.16:171][837]LogWorld: Bringing up level for play took: 0.055203
+[2017.09.22-04.00.16:174][837]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map 0.11
+[2017.09.22-04.00.37:568][356]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-1.08 Y=-17.91 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2017.09.22-04.00.38:568][474]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-197.71 Y=-566.49 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.00.39:571][591]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-274.75 Y=-533.40 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (116 other events since notify)
+[2017.09.22-04.00.40:331][674]PIE: Warning: killerAI7_251.Capsule has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulseAtLocation. 
+[2017.09.22-04.00.40:577][702]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-416.10 Y=-432.28 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (110 other events since notify)
+[2017.09.22-04.00.41:584][821]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-501.93 Y=-328.73 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.00.42:589][940]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-545.85 Y=-249.09 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.00.42:716][955]LogCharacterMovement: mortaAIl33_888 is stuck and failed to move! Velocity: X=-287.82 Y=276.87 Z=0.00 Location: X=1862.86 Y=2893.48 Z=-94.02 Normal: X=-0.75 Y=0.66 Z=0.00 PenetrationDepth:4.896 Actor:mortaAIl30_664 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.42:802][965]LogCharacterMovement: killerAI7_251 is stuck and failed to move! Velocity: X=-173.15 Y=-202.21 Z=0.00 Location: X=1965.79 Y=2988.85 Z=10.28 Normal: X=-0.07 Y=1.00 Z=0.00 PenetrationDepth:0.000 Actor:killerAI_603 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.43:597][ 57]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-584.13 Y=-137.10 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (116 other events since notify)
+[2017.09.22-04.00.44:174][124]LogCharacterMovement: killerAI7_251 is stuck and failed to move! Velocity: X=-579.93 Y=153.89 Z=0.00 Location: X=1381.68 Y=3418.65 Z=10.30 Normal: X=0.48 Y=0.88 Z=0.02 PenetrationDepth:0.000 Actor:killerAI_603 Component:CharacterMesh0 BoneName:hand_l (1 other events since notify)
+[2017.09.22-04.00.44:599][174]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-591.98 Y=-97.80 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (116 other events since notify)
+[2017.09.22-04.00.44:900][210]LogCharacterMovement: aa11_1289 is stuck and failed to move! Velocity: X=-248.42 Y=520.39 Z=0.00 Location: X=1068.49 Y=3576.89 Z=-99.84 Normal: X=0.97 Y=-0.23 Z=0.00 PenetrationDepth:1.865 Actor:mortaAIl30_664 Component:CharacterMesh0 BoneName:foot_r (0 other events since notify)
+[2017.09.22-04.00.45:252][252]LogCharacterMovement: mortaAIl33_888 is stuck and failed to move! Velocity: X=-413.68 Y=434.59 Z=0.00 Location: X=953.86 Y=3906.82 Z=-99.85 Normal: X=0.78 Y=0.62 Z=0.00 PenetrationDepth:0.202 Actor:mortaAIl30_664 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.45:607][290]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-561.00 Y=212.79 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (115 other events since notify)
+[2017.09.22-04.00.46:346][376]LogCharacterMovement: mortaAIl33_888 is stuck and failed to move! Velocity: X=-517.05 Y=304.41 Z=0.00 Location: X=544.55 Y=4454.57 Z=-98.69 Normal: X=0.58 Y=0.81 Z=0.00 PenetrationDepth:0.084 Actor:mortaAIl30_664 Component:CharacterMesh0 BoneName:hand_l (5 other events since notify)
+[2017.09.22-04.00.46:449][388]LogCharacterMovement: killerAI7_251 is stuck and failed to move! Velocity: X=-524.83 Y=290.78 Z=0.00 Location: X=631.23 Y=4429.08 Z=10.32 Normal: X=0.49 Y=0.87 Z=0.00 PenetrationDepth:0.137 Actor:killerAI_603 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2017.09.22-04.00.46:612][407]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-561.00 Y=212.79 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (116 other events since notify)
+[2017.09.22-04.00.47:262][483]LogCharacterMovement: mortaAIl10_1068 is stuck and failed to move! Velocity: X=-445.82 Y=401.55 Z=0.00 Location: X=570.91 Y=4334.12 Z=-99.85 Normal: X=0.77 Y=-0.49 Z=-0.40 PenetrationDepth:11.268 Actor:killerAI7_251 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.00.47:621][525]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-561.00 Y=212.79 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.00.48:468][614]LogCharacterMovement: killerAI7_251 is stuck and failed to move! Velocity: X=-596.59 Y=-63.85 Z=0.00 Location: X=149.77 Y=4732.01 Z=10.15 Normal: X=0.20 Y=-0.98 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:hand_r (31 other events since notify)
+[2017.09.22-04.00.48:576][625]LogCharacterMovement: killerAI_603 is stuck and failed to move! Velocity: X=-20.40 Y=-58.64 Z=0.00 Location: X=-360.11 Y=4735.57 Z=-99.94 Normal: X=-0.95 Y=-0.30 Z=0.00 PenetrationDepth:7.053 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.48:598][627]LogCharacterMovement: mortaAIl4_95 is stuck and failed to move! Velocity: X=-577.59 Y=-162.45 Z=0.00 Location: X=-177.47 Y=4660.66 Z=-99.64 Normal: X=0.49 Y=-0.87 Z=-0.00 PenetrationDepth:1.078 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:calf_l (0 other events since notify)
+[2017.09.22-04.00.48:628][630]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-561.00 Y=212.79 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2017.09.22-04.00.48:891][658]LogCharacterMovement: mortaAIl12_1248 is stuck and failed to move! Velocity: X=-348.89 Y=-246.76 Z=0.00 Location: X=-255.40 Y=4702.67 Z=-99.85 Normal: X=-0.48 Y=0.88 Z=0.00 PenetrationDepth:0.207 Actor:mortaAIl4_95 Component:CharacterMesh0 BoneName:lowerarm_l (0 other events since notify)
+[2017.09.22-04.00.48:930][662]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=-204.81 Y=-563.96 Z=0.00 Location: X=-335.45 Y=4627.50 Z=-99.80 Normal: X=-0.02 Y=1.00 Z=-0.00 PenetrationDepth:8.283 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:foot_r (0 other events since notify)
+[2017.09.22-04.00.48:931][662]LogCharacterMovement: mortaAIl10_1068 is stuck and failed to move! Velocity: X=-470.44 Y=-372.40 Z=0.00 Location: X=-169.13 Y=4591.15 Z=-99.33 Normal: X=-0.63 Y=0.78 Z=-0.00 PenetrationDepth:0.119 Actor:mortaAIl18_1733 Component:CharacterMesh0 BoneName:hand_l (10 other events since notify)
+[2017.09.22-04.00.48:969][666]LogCharacterMovement: mortaAIl18_1733 is stuck and failed to move! Velocity: X=-151.15 Y=-81.78 Z=0.00 Location: X=-121.97 Y=4540.07 Z=-99.83 Normal: X=-0.15 Y=0.99 Z=-0.00 PenetrationDepth:0.008 Actor:mortaAIl_359 Component:CharacterMesh0 BoneName:foot_l (0 other events since notify)
+[2017.09.22-04.00.49:023][672]LogCharacterMovement: mortaAIl33_888 is stuck and failed to move! Velocity: X=-215.85 Y=-559.83 Z=0.00 Location: X=-378.46 Y=4446.57 Z=-101.65 Normal: X=0.92 Y=-0.08 Z=-0.39 PenetrationDepth:0.460 Actor:mortaAIl28_619 Component:CharacterMesh0 BoneName:hand_r (1 other events since notify)
+[2017.09.22-04.00.49:433][716]LogCharacterMovement: aa11_1289 is stuck and failed to move! Velocity: X=46.16 Y=-598.22 Z=0.00 Location: X=-313.99 Y=4376.04 Z=-99.85 Normal: X=0.93 Y=0.36 Z=0.00 PenetrationDepth:2.083 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.00.49:636][738]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-561.00 Y=212.79 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (107 other events since notify)
+[2017.09.22-04.00.50:441][827]LogCharacterMovement: mortaAIl33_888 is stuck and failed to move! Velocity: X=184.09 Y=-571.06 Z=0.00 Location: X=-247.36 Y=3899.66 Z=-99.80 Normal: X=-0.88 Y=0.48 Z=0.00 PenetrationDepth:0.337 Actor:aa11_1289 Component:CharacterMesh0 BoneName:ball_r (18 other events since notify)
+[2017.09.22-04.00.50:648][849]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-591.98 Y=-97.80 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (110 other events since notify)
+[2017.09.22-04.00.51:646][953]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-585.82 Y=-129.68 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2017.09.22-04.00.52:653][ 64]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-296.52 Y=-521.61 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (110 other events since notify)
+[2017.09.22-04.00.53:486][157]LogCharacterMovement: mortaAIl4_95 is stuck and failed to move! Velocity: X=462.96 Y=-381.67 Z=0.00 Location: X=673.95 Y=2499.80 Z=-100.44 Normal: X=0.59 Y=0.81 Z=-0.00 PenetrationDepth:0.000 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:hand_r (16 other events since notify)
+[2017.09.22-04.00.53:661][177]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-296.52 Y=-521.61 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (112 other events since notify)
+[2017.09.22-04.00.53:941][209]LogCharacterMovement: mortaAIl18_1733 is stuck and failed to move! Velocity: X=-220.46 Y=-558.03 Z=0.00 Location: X=289.62 Y=3071.89 Z=-101.50 Normal: X=0.80 Y=-0.48 Z=-0.36 PenetrationDepth:3.398 Actor:mortaAIl10_1068 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.00.54:189][237]LogCharacterMovement: mortaAIl10_1068 is stuck and failed to move! Velocity: X=-18.30 Y=-137.67 Z=0.00 Location: X=208.37 Y=3127.65 Z=-99.85 Normal: X=-0.72 Y=0.69 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl18_1733 Component:CharacterMesh0 BoneName:hand_l (2 other events since notify)
+[2017.09.22-04.00.54:208][239]LogCharacterMovement: mortaAIl12_1248 is stuck and failed to move! Velocity: X=450.18 Y=-385.84 Z=0.00 Location: X=171.35 Y=3022.92 Z=-99.85 Normal: X=-0.67 Y=-0.75 Z=-0.00 PenetrationDepth:0.000 Actor:mortaAIl10_1068 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.54:663][292]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-296.52 Y=-521.61 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (114 other events since notify)
+[2017.09.22-04.00.55:078][341]LogCharacterMovement: mortaAIl5_214 is stuck and failed to move! Velocity: X=571.07 Y=-184.07 Z=0.00 Location: X=1450.13 Y=2286.91 Z=-76.60 Normal: X=0.37 Y=0.92 Z=-0.14 PenetrationDepth:0.565 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.55:480][389]LogCharacterMovement: mortaAIl31_722 is stuck and failed to move! Velocity: X=58.65 Y=38.31 Z=0.00 Location: X=853.63 Y=2552.32 Z=-100.06 Normal: X=0.71 Y=-0.70 Z=-0.03 PenetrationDepth:0.725 Actor:mortaAIl30_664 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.00.55:667][411]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-296.52 Y=-521.61 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.00.55:700][415]LogCharacterMovement: mortaAIl30_664 is stuck and failed to move! Velocity: X=15.92 Y=-6.27 Z=0.00 Location: X=785.76 Y=2546.92 Z=-99.93 Normal: X=0.96 Y=-0.30 Z=0.00 PenetrationDepth:12.402 Actor:mortaAIl12_1248 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.00.55:810][428]LogCharacterMovement: mortaAIl10_1068 is stuck and failed to move! Velocity: X=551.17 Y=-237.09 Z=0.00 Location: X=478.96 Y=2711.93 Z=-99.85 Normal: X=-0.40 Y=-0.92 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl18_1733 Component:CharacterMesh0 BoneName:hand_l (1 other events since notify)
+[2017.09.22-04.00.56:450][503]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=14.86 Y=-8.57 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.06 Y=1.00 Z=0.00 PenetrationDepth:7.154 Actor:killerAI_603 Component:CharacterMesh0 BoneName:calf_l (0 other events since notify)
+[2017.09.22-04.00.56:489][507]LogCharacterMovement: mortaAIl22_1923 is stuck and failed to move! Velocity: X=20.94 Y=-12.67 Z=0.00 Location: X=561.90 Y=2703.73 Z=-100.16 Normal: X=-0.28 Y=0.96 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl18_1733 Component:CharacterMesh0 BoneName:foot_r (0 other events since notify)
+[2017.09.22-04.00.56:673][527]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-283.17 Y=-528.98 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (115 other events since notify)
+[2017.09.22-04.00.57:278][596]LogCharacterMovement: mortaAIl18_1733 is stuck and failed to move! Velocity: X=15.69 Y=-9.30 Z=0.00 Location: X=625.17 Y=2629.91 Z=-99.85 Normal: X=-0.88 Y=-0.47 Z=-0.00 PenetrationDepth:0.096 Actor:mortaAIl12_1248 Component:CharacterMesh0 BoneName:foot_r (21 other events since notify)
+[2017.09.22-04.00.57:680][643]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-198.33 Y=-566.27 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (115 other events since notify)
+[2017.09.22-04.00.57:802][657]LogCharacterMovement: aa11_1289 is stuck and failed to move! Velocity: X=406.94 Y=-440.91 Z=0.00 Location: X=2889.81 Y=1338.81 Z=-99.63 Normal: X=0.84 Y=0.54 Z=0.00 PenetrationDepth:2.714 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:hand_r (1 other events since notify)
+[2017.09.22-04.00.58:683][759]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-143.48 Y=-582.59 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (115 other events since notify)
+[2017.09.22-04.00.59:172][816]LogCharacterMovement: mortaAIl18_1733 is stuck and failed to move! Velocity: X=16.23 Y=-9.93 Z=0.00 Location: X=629.12 Y=2632.54 Z=-100.00 Normal: X=0.09 Y=1.00 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl10_1068 Component:CharacterMesh0 BoneName:foot_l (17 other events since notify)
+[2017.09.22-04.00.59:687][877]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.01.00:542][978]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=12.29 Y=-11.84 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (21 other events since notify)
+[2017.09.22-04.01.00:693][996]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.00:869][ 17]LogCharacterMovement: mortaAIl33_888 is stuck and failed to move! Velocity: X=-12.00 Y=-599.88 Z=0.00 Location: X=3725.88 Y=-13.59 Z=-101.96 Normal: X=0.92 Y=-0.04 Z=-0.39 PenetrationDepth:1.027 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.01.01:546][ 98]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=69.34 Y=-75.35 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (107 other events since notify)
+[2017.09.22-04.01.01:696][116]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.01:846][134]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=19.59 Y=-319.95 Z=0.00 Location: X=3964.17 Y=-943.82 Z=-91.84 Normal: X=0.76 Y=-0.65 Z=0.00 PenetrationDepth:8.111 Actor:mortaAIl_359 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.01.02:546][216]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=89.86 Y=-103.15 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (107 other events since notify)
+[2017.09.22-04.01.02:696][234]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.01.02:914][260]LogCharacterMovement: aa11_1289 is stuck and failed to move! Velocity: X=182.26 Y=-450.21 Z=0.00 Location: X=3998.11 Y=-1027.61 Z=-99.90 Normal: X=-0.47 Y=-0.88 Z=-0.00 PenetrationDepth:0.661 Actor:mortaAIl4_95 Component:CharacterMesh0 BoneName:hand_l (5 other events since notify)
+[2017.09.22-04.01.03:122][285]LogCharacterMovement: mortaAIl15_1476 is stuck and failed to move! Velocity: X=6.07 Y=-16.06 Z=0.00 Location: X=4020.20 Y=-1101.88 Z=-99.82 Normal: X=-0.12 Y=-0.99 Z=-0.00 PenetrationDepth:1.340 Actor:aa11_1289 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.01.03:130][286]LogCharacterMovement: mortaAIl4_95 is stuck and failed to move! Velocity: X=83.26 Y=-553.43 Z=0.00 Location: X=4073.20 Y=-1039.44 Z=-99.81 Normal: X=0.97 Y=0.26 Z=-0.00 PenetrationDepth:0.000 Actor:aa11_1289 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2017.09.22-04.01.03:546][336]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=89.73 Y=-103.00 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (109 other events since notify)
+[2017.09.22-04.01.03:697][354]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.04:547][456]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=89.71 Y=-102.98 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (109 other events since notify)
+[2017.09.22-04.01.04:697][474]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.05:054][516]LogCharacterMovement: patrolAI_228 is stuck and failed to move! Velocity: X=-48.78 Y=161.34 Z=0.00 Location: X=2822.67 Y=172.78 Z=-99.85 Normal: X=-0.56 Y=-0.83 Z=0.00 PenetrationDepth:0.000 Actor:mortaAIl10_1068 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.01.05:079][519]LogCharacterMovement: mortaAIl10_1068 is stuck and failed to move! Velocity: X=400.32 Y=-446.92 Z=0.00 Location: X=2840.74 Y=252.93 Z=-99.77 Normal: X=0.23 Y=0.97 Z=0.00 PenetrationDepth:0.000 Actor:patrolAI_228 Component:CharacterMesh0 BoneName:hand_l (12 other events since notify)
+[2017.09.22-04.01.05:553][576]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=112.16 Y=-128.75 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (109 other events since notify)
+[2017.09.22-04.01.05:703][594]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.06:553][695]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=100.89 Y=-115.82 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (108 other events since notify)
+[2017.09.22-04.01.06:995][747]LogCharacterMovement: killerAI_603 is stuck and failed to move! Velocity: X=12.44 Y=-11.75 Z=0.00 Location: X=3967.62 Y=-1152.67 Z=-99.84 Normal: X=-0.11 Y=-0.99 Z=-0.00 PenetrationDepth:4.336 Actor:mortaAIl22_1923 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.01.07:088][758]LogCharacterMovement: mortaAIl_359 is stuck and failed to move! Velocity: X=6.00 Y=-15.98 Z=0.00 Location: X=4048.24 Y=-1163.94 Z=-99.62 Normal: X=-0.99 Y=0.16 Z=-0.00 PenetrationDepth:6.310 Actor:mortaAIl4_95 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.01.07:214][773]LogCharacterMovement: mortaAIl15_1476 is stuck and failed to move! Velocity: X=6.10 Y=-15.94 Z=0.00 Location: X=4020.26 Y=-1101.89 Z=-99.82 Normal: X=-1.00 Y=0.02 Z=0.00 PenetrationDepth:3.849 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:lowerarm_l (10 other events since notify)
+[2017.09.22-04.01.07:554][811]LogCharacterMovement: mortaAIl28_619 is stuck and failed to move! Velocity: X=102.10 Y=-117.21 Z=0.00 Location: X=905.87 Y=2508.74 Z=-100.71 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:3.149 Actor:mortaAIl31_722 Component:CharacterMesh0 BoneName:hand_l (105 other events since notify)
+[2017.09.22-04.01.07:566][812]LogCharacterMovement: aa11_1289 is stuck and failed to move! Velocity: X=97.38 Y=-251.54 Z=0.00 Location: X=4027.58 Y=-1043.54 Z=-99.57 Normal: X=-0.33 Y=0.50 Z=0.80 PenetrationDepth:8.595 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:foot_r (18 other events since notify)
+[2017.09.22-04.01.09:321][999]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-0.92 Y=-18.28 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (69 other events since notify)
+[2017.09.22-04.01.09:759][ 46]LogCharacterMovement: mortaAIl4_95 is stuck and failed to move! Velocity: X=19.74 Y=598.76 Z=0.00 Location: X=5013.83 Y=-823.65 Z=-99.85 Normal: X=0.97 Y=-0.26 Z=-0.00 PenetrationDepth:0.000 Actor:mortaAIl33_888 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.01.10:329][108]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (108 other events since notify)
+[2017.09.22-04.01.11:332][227]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.12:338][347]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.13:234][453]LogCharacterMovement: killerAI_603 is stuck and failed to move! Velocity: X=-15.23 Y=21.37 Z=0.00 Location: X=4713.10 Y=-277.13 Z=-99.85 Normal: X=-0.76 Y=0.65 Z=0.00 PenetrationDepth:2.641 Actor:mortaAIl15_1476 Component:CharacterMesh0 BoneName:hand_l (31 other events since notify)
+[2017.09.22-04.01.13:292][460]LogCharacterMovement: mortaAIl15_1476 is stuck and failed to move! Velocity: X=50.45 Y=136.86 Z=0.00 Location: X=4741.39 Y=-344.71 Z=-97.02 Normal: X=0.78 Y=-0.34 Z=0.53 PenetrationDepth:0.097 Actor:killerAI_603 Component:CharacterMesh0 BoneName:foot_r (24 other events since notify)
+[2017.09.22-04.01.13:344][466]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.14:318][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4667.104 Y=241.673 Z=-76.573] for [FirstPersonProjectile_C]
+[2017.09.22-04.01.14:351][585]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.15:351][704]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.16:353][822]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.01.17:356][938]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (115 other events since notify)
+[2017.09.22-04.01.17:567][961]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-5.68 Y=17.60 Z=0.00 Location: X=4580.80 Y=483.45 Z=-91.84 Normal: X=0.26 Y=-0.96 Z=0.00 PenetrationDepth:4.196 Actor:patrolAI_228 Component:CharacterMesh0 BoneName:lowerarm_l (0 other events since notify)
+[2017.09.22-04.01.18:361][ 48]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (109 other events since notify)
+[2017.09.22-04.01.18:568][ 71]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=19.86 Y=0.11 Z=0.00 Location: X=4580.80 Y=483.45 Z=-91.84 Normal: X=-1.00 Y=-0.03 Z=0.00 PenetrationDepth:0.128 Actor:mortaAIl4_95 Component:CharacterMesh0 BoneName:hand_l (41 other events since notify)
+[2017.09.22-04.01.19:362][161]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (112 other events since notify)
+[2017.09.22-04.01.19:620][192]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=16.84 Y=2.77 Z=0.00 Location: X=4580.80 Y=483.45 Z=-91.84 Normal: X=0.16 Y=-0.99 Z=-0.00 PenetrationDepth:3.375 Actor:patrolAI_228 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2017.09.22-04.01.20:367][280]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.20:954][350]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4496.731 Y=581.500 Z=-118.381] for [FirstPersonProjectile_C]
+[2017.09.22-04.01.21:130][370]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4512.664 Y=595.242 Z=-109.817] for [FirstPersonProjectile_C]
+[2017.09.22-04.01.21:370][398]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.01.22:373][512]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (113 other events since notify)
+[2017.09.22-04.01.23:380][630]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (117 other events since notify)
+[2017.09.22-04.01.24:385][749]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.24:875][807]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=12.29 Y=11.85 Z=0.00 Location: X=4580.80 Y=483.45 Z=-91.84 Normal: X=0.16 Y=-0.99 Z=-0.00 PenetrationDepth:3.370 Actor:patrolAI_228 Component:CharacterMesh0 BoneName:hand_l (55 other events since notify)
+[2017.09.22-04.01.25:393][869]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.26:398][989]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.26:551][  7]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4538.359 Y=600.796 Z=-119.766] for [FirstPersonProjectile_C]
+[2017.09.22-04.01.27:036][ 65]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4529.536 Y=598.087 Z=-124.853] for [FirstPersonProjectile_C]
+[2017.09.22-04.01.27:403][109]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.28:404][229]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (119 other events since notify)
+[2017.09.22-04.01.29:413][350]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (120 other events since notify)
+[2017.09.22-04.01.30:418][469]LogCharacterMovement: mortaAIl14_1390 is stuck and failed to move! Velocity: X=-30.12 Y=-599.24 Z=0.00 Location: X=4010.00 Y=3930.00 Z=-102.00 Normal: X=-0.98 Y=0.07 Z=-0.19 PenetrationDepth:24.448 Actor:ScotsPine_01 Component:StaticMeshComponent0 BoneName:None (118 other events since notify)
+[2017.09.22-04.01.40:229][550]LogHttp: Warning: 000001518D7E1D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.01.40:229][550]LogHttp: Warning: 000001518D7E1D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.01.40:229][550]LogHttp: Warning: 000001518D7E1D80: libcurl info message cache 1 (Closing connection 4)
+[2017.09.22-04.01.55:274][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2017.09.22-04.01.56:353][389]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2017.09.22-04.01.57:371][509]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2017.09.22-04.01.57:947][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2017.09.22-04.01.58:147][598]LogEditorViewport: Clicking on Actor (LMB): killerAI_C (killerAI7)
+[2017.09.22-04.03.00:447][287]LogMaterial: Missing cached shader map for material T_Fire_Tiled_Mat, compiling. 
+[2017.09.22-04.03.00:513][287]LogMaterial: Warning: Material /Game/StarterContent/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.09.22-04.03.00:516][287]LogMaterial: Missing cached shader map for material T_Fire_Tiled_Mat, compiling. 
+[2017.09.22-04.03.38:983][667]LogMaterial: Missing cached shader map for material T_Rock_Sandstone_Mat, compiling. 
+[2017.09.22-04.03.39:007][667]LogMaterial: Warning: Material /Game/StarterContent/Textures/T_Rock_Sandstone_Mat.T_Rock_Sandstone_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.09.22-04.03.39:010][667]LogMaterial: Missing cached shader map for material T_Rock_Sandstone_Mat, compiling. 
+[2017.09.22-04.03.40:258][750]LogHttp: Warning: 000001507FD15180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.03.40:259][750]LogHttp: Warning: 000001507FD15180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.03.40:259][750]LogHttp: Warning: 000001507FD15180: libcurl info message cache 1 (Closing connection 5)
+[2017.09.22-04.03.51:026][682]Cmd: TRANSACTION UNDO
+[2017.09.22-04.03.51:026][682]LogEditorTransaction: Undo Create Actors
+[2017.09.22-04.03.57:149][174]LogMaterial: Warning: Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.09.22-04.03.57:151][174]LogMaterial: Missing cached shader map for material T_CobbleStone_Pebble_Mat, compiling. 
+[2017.09.22-04.04.18:890][130]LogEditorViewport: Clicking on Actor (LMB): killerAI_C (killerAI7)
+[2017.09.22-04.04.20:314][267]LogEditorViewport: Clicking on Actor (LMB): killerAI_C (killerAI7)
+[2017.09.22-04.04.20:373][270]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2017.09.22-04.04.22:130][449]LogSlate: Took 0.026233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.22-04.04.27:399][ 52]LogEditorViewport: Clicking on Component (context menu): SkeletalMeshComponent (CharacterMesh0)
+[2017.09.22-04.04.34:453][885]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.04.34:470][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.04.34:470][885]PIE: New page: PIE session: screenshot_map (Sep 22, 2017, 3:04:34 PM)
+[2017.09.22-04.04.34:470][885]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map
+[2017.09.22-04.04.34:543][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072722s)
+[2017.09.22-04.04.34:544][885]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-04.04.34:544][885]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2017.09.22-04.04.34:545][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/screenshot_map.screenshot_map to /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map (0.074519s)
+[2017.09.22-04.04.34:556][885]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.04.34:562][885]LogInit: FAudioDevice initialized.
+[2017.09.22-04.04.34:592][885]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.04.34:624][885]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 0) at 2017.09.22-09.34.34
+[2017.09.22-04.04.34:634][885]LogWorld: Bringing up level for play took: 0.040788
+[2017.09.22-04.04.34:636][885]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map 0.572
+[2017.09.22-04.04.50:771][807]PIE: Warning: killerAI_603.Capsule has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2017.09.22-04.05.40:278][508]LogHttp: Warning: 00000150803F5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.05.40:278][508]LogHttp: Warning: 00000150803F5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.05.40:278][508]LogHttp: Warning: 00000150803F5A80: libcurl info message cache 1 (Closing connection 6)
+[2017.09.22-04.05.45:834][924]LogSavePackage: Save=1526.64ms
+[2017.09.22-04.05.45:834][924]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/screenshot_map70B6BCA9484BE575A60FCF8C51ED5D92.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/screenshot_map.umap'
+[2017.09.22-04.05.45:841][924]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/screenshot_map.umap
+[2017.09.22-04.05.47:637][924]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.22-04.05.56:924][924]LogSavePackage: Save=11040.72ms
+[2017.09.22-04.05.56:924][924]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/screenshot_map_BuiltData01A617AC4133E14F0C254CBA4A727BE8.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Maps/screenshot_map_BuiltData.uasset'
+[2017.09.22-04.05.56:953][924]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Maps/screenshot_map_BuiltData.uasset
+[2017.09.22-04.06.15:564][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FieldGrass_24)
+[2017.09.22-04.06.17:599][204]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.09.22-04.06.58:619][647]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.07.00:401][647]LogSavePackage: Save=16.34ms
+[2017.09.22-04.07.00:401][647]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/T_CobbleStone_Pebble_Mat607C236E4CD24326EB5D8988599A6D12.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_Mat.uasset'
+[2017.09.22-04.07.00:403][647]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_Mat.uasset
+[2017.09.22-04.07.00:432][647]LogSavePackage: Save=16.51ms
+[2017.09.22-04.07.00:432][647]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/T_Fire_Tiled_Mat99950C15461A7A223873708CCE7DAD82.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/StarterContent/Textures/T_Fire_Tiled_Mat.uasset'
+[2017.09.22-04.07.00:434][647]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/StarterContent/Textures/T_Fire_Tiled_Mat.uasset
+[2017.09.22-04.07.00:434][647]Cmd: MAP LOAD FILE="../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.22-04.07.00:434][647]LightingResults: New page: Lighting Build
+[2017.09.22-04.07.00:435][647]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2017.09.22-04.07.00:442][647]MapCheck: New page: Map Check
+[2017.09.22-04.07.00:442][647]LightingResults: New page: Lighting Build
+[2017.09.22-04.07.00:782][647]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.22-04.07.00:793][647]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (5534584) to: (1048576)
+[2017.09.22-04.07.00:864][647]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.22-04.07.00:923][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.13ms to complete.
+[2017.09.22-04.07.00:923][647]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.489
+[2017.09.22-04.07.11:901][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2017.09.22-04.07.40:298][227]LogHttp: Warning: 0000015098EB7E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.07.40:298][227]LogHttp: Warning: 0000015098EB7E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.07.40:298][227]LogHttp: Warning: 0000015098EB7E80: libcurl info message cache 1 (Closing connection 7)
+[2017.09.22-04.08.17:457][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2017.09.22-04.08.27:902][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2017.09.22-04.08.28:755][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2017.09.22-04.08.43:751][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2017.09.22-04.08.46:564][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2017.09.22-04.09.19:708][493]LogSavePackage: Save=1154.19ms
+[2017.09.22-04.09.19:708][493]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap9A8A5E29435E158519F9B3B32A41E2DD.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.09.22-04.09.19:711][493]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.09.22-04.09.20:853][493]LogSavePackage: Save=1099.61ms
+[2017.09.22-04.09.20:853][493]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap_BuiltDataD65FBBBA499BB5722FB47D95D9185EDC.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.09.22-04.09.20:855][493]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.09.22-04.09.40:318][825]LogHttp: Warning: 0000015063A63880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.09.40:318][825]LogHttp: Warning: 0000015063A63880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.09.40:318][825]LogHttp: Warning: 0000015063A63880: libcurl info message cache 1 (Closing connection 8)
+[2017.09.22-04.10.18:733][378]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.10.18:750][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.10.18:750][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.10.18:750][378]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 3:10:18 PM)
+[2017.09.22-04.10.18:750][378]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-04.10.18:992][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.241969s)
+[2017.09.22-04.10.18:993][378]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.10.18:994][378]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2017.09.22-04.10.18:994][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.243681s)
+[2017.09.22-04.10.19:007][378]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.10.19:013][378]LogInit: FAudioDevice initialized.
+[2017.09.22-04.10.19:049][378]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.10.19:081][378]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2017.09.22-09.40.19
+[2017.09.22-04.10.19:082][378]LogWorld: Bringing up level for play took: 0.031396
+[2017.09.22-04.10.19:083][378]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.019
+[2017.09.22-04.10.19:084][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.10.33:878][149]LogNet: Browse: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.22-04.10.33:878][149]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/screenshot_map
+[2017.09.22-04.10.33:928][149]Cmd: MEM
+[2017.09.22-04.10.33:938][149]LogMemory: Platform Memory Stats for Windows
+[2017.09.22-04.10.33:938][149]LogMemory: Process Physical Memory: 3889.59 MB used, 5282.95 MB peak
+[2017.09.22-04.10.33:938][149]LogMemory: Process Virtual Memory: 4814.20 MB used, 6103.02 MB peak
+[2017.09.22-04.10.33:938][149]LogMemory: Physical Memory: 7550.00 MB used,  25150.80 MB free, 32700.80 MB total
+[2017.09.22-04.10.33:938][149]LogMemory: Virtual Memory: 5767.88 MB used,  25150.80 MB free, 134217728.00 MB total
+[2017.09.22-04.10.33:938][149]LogMemory: 
+[2017.09.22-04.10.33:938][149]Allocator Stats for TBB: (not implemented)
+[2017.09.22-04.10.39:173][149]LogAIModule: Creating AISystem for world screenshot_map
+[2017.09.22-04.10.39:174][149]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.10.39:215][149]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_screenshot_map.screenshot_map up for play (max tick rate 0) at 2017.09.22-09.40.39
+[2017.09.22-04.10.39:223][149]LogWorld: Bringing up level for play took: 0.050271
+[2017.09.22-04.10.39:227][149]LogLoad: Took 5.349481 seconds to LoadMap(/Game/FirstPersonBP/Maps/screenshot_map)
+[2017.09.22-04.10.39:276][150]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061796 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2017.09.22-04.11.40:357][451]LogHttp: Warning: 000001504E9CDC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.11.40:357][451]LogHttp: Warning: 000001504E9CDC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.11.40:357][451]LogHttp: Warning: 000001504E9CDC00: libcurl info message cache 1 (Closing connection 9)
+[2017.09.22-04.12.03:236][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.12.03:299][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.12.57:451][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Pipe)
+[2017.09.22-04.12.58:509][128]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit)
+[2017.09.22-04.12.59:492][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Pipe)
+[2017.09.22-04.13.00:184][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Pipe2)
+[2017.09.22-04.13.00:967][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.22-04.13.10:425][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.22-04.13.40:382][631]LogHttp: Warning: 0000015099346E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.13.40:382][631]LogHttp: Warning: 0000015099346E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.13.40:382][631]LogHttp: Warning: 0000015099346E00: libcurl info message cache 1 (Closing connection 10)
+[2017.09.22-04.14.22:340][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Pipe2)
+[2017.09.22-04.14.23:542][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Pipe)
+[2017.09.22-04.14.35:105][881]Cmd: TRANSACTION UNDO
+[2017.09.22-04.14.35:105][881]LogEditorTransaction: Undo Move Actors
+[2017.09.22-04.14.35:882][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.22-04.14.40:036][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.22-04.14.42:155][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Pipe)
+[2017.09.22-04.15.25:524][876]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.09.22-04.15.28:225][ 16]Cmd: TRANSACTION UNDO
+[2017.09.22-04.15.28:225][ 16]LogEditorTransaction: Undo Clicking on Actors
+[2017.09.22-04.15.40:416][743]LogHttp: Warning: 0000015098ED8D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.15.40:416][743]LogHttp: Warning: 0000015098ED8D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.15.40:416][743]LogHttp: Warning: 0000015098ED8D00: libcurl info message cache 1 (Closing connection 11)
+[2017.09.22-04.15.42:571][869]LogEditorViewport: Clicking on Actor (context menu): DirectionalLight (Light Source)
+[2017.09.22-04.15.43:805][938]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.09.22-04.15.52:507][404]LogSavePackage: Save=865.54ms
+[2017.09.22-04.15.52:507][404]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap6EB11CA84B0AE4573269F5B564D84DE8.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.09.22-04.15.52:510][404]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.09.22-04.15.53:326][404]LogSavePackage: Save=772.10ms
+[2017.09.22-04.15.53:326][404]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap_BuiltDataA99D4FA9429142E851166BBD4890C7D2.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.09.22-04.15.53:327][404]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.09.22-04.15.54:945][500]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.15.54:963][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.15.54:963][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.15.54:963][500]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 3:15:54 PM)
+[2017.09.22-04.15.54:963][500]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-04.15.55:209][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.246316s)
+[2017.09.22-04.15.55:210][500]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.15.55:211][500]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2017.09.22-04.15.55:211][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.247978s)
+[2017.09.22-04.15.55:224][500]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.15.55:231][500]LogInit: FAudioDevice initialized.
+[2017.09.22-04.15.55:262][500]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.15.55:294][500]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.09.22-09.45.55
+[2017.09.22-04.15.55:295][500]LogWorld: Bringing up level for play took: 0.031865
+[2017.09.22-04.15.55:296][500]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.232
+[2017.09.22-04.15.55:297][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.03:764][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.03:846][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.05:955][ 75]LogSavePackage: Save=909.91ms
+[2017.09.22-04.16.05:955][ 75]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap97940CC3494C291D86EFA796564B4933.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.09.22-04.16.05:956][ 75]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.09.22-04.16.06:773][ 75]LogSavePackage: Save=784.61ms
+[2017.09.22-04.16.06:773][ 75]LogSavePackage: Moving '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/FirstPersonExampleMap_BuiltDataCC934AA9477EF7B9CE8B2CA485700E16.tmp' to '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.09.22-04.16.06:775][ 75]LogSavePackage: Display: Finished SavePackage ../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.09.22-04.16.10:739][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.22-04.16.11:380][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.22-04.16.12:835][434]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.22-04.16.12:852][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.12:852][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-04.16.12:852][434]PIE: New page: PIE session: FirstPersonExampleMap (Sep 22, 2017, 3:16:12 PM)
+[2017.09.22-04.16.12:852][434]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.09.22-04.16.13:090][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.237811s)
+[2017.09.22-04.16.13:091][434]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.09.22-04.16.13:092][434]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2017.09.22-04.16.13:092][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.239424s)
+[2017.09.22-04.16.13:106][434]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.22-04.16.13:112][434]LogInit: FAudioDevice initialized.
+[2017.09.22-04.16.13:142][434]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.09.22-04.16.13:187][434]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.09.22-09.46.13
+[2017.09.22-04.16.13:189][434]LogWorld: Bringing up level for play took: 0.044593
+[2017.09.22-04.16.13:190][434]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.125
+[2017.09.22-04.16.13:190][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.21:443][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.21:526][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.09.22-04.16.25:709][162]Cmd: QUIT_EDITOR
+[2017.09.22-04.16.25:779][162]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.22-04.16.25:799][162]LogExit: Preparing to exit.
+[2017.09.22-04.16.26:634][162]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' was aborted.
+[2017.09.22-04.16.26:654][162]LogExit: Editor shut down
+[2017.09.22-04.16.26:662][162]LogExit: Transaction tracking system shut down
+[2017.09.22-04.16.26:832][162]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.22-04.16.26:833][162]LogDirectoryWatcher: A directory notification for '../../../../[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/' was aborted.
+[2017.09.22-04.16.26:833][162]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.22-04.16.26:833][162]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.22-04.16.26:833][162]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.22-04.16.27:450][162]LogExit: Object subsystem successfully closed.
+[2017.09.22-04.16.27:473][162]LogD3D11RHI: Shutdown
+[2017.09.22-04.16.27:473][162]LogD3D11RHI: CleanupD3DDevice
+[2017.09.22-04.16.27:634][162]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.22-04.16.27:642][162]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.09.22-04.16.27:642][162]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.22-04.16.27:642][162]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.22-04.16.27:642][162]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.22-04.16.27:642][162]LogDirectoryWatcher: A directory notification for 'D:/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.22-04.16.27:643][162]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Collections/' was aborted.
+[2017.09.22-04.16.27:643][162]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Content/Developers/holmes/Collections/' was aborted.
+[2017.09.22-04.16.27:643][162]LogDirectoryWatcher: A directory notification for 'D:/[TorrentCounter.cc].Your.Name.2016.ESubs.1080p.BluRay.x264/OurProject/Saved/Collections/' was aborted.
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.22-04.16.27:643][162]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.22-04.16.28:428][162]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.22-04.16.28:429][162]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.22-04.16.28:429][162]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.22-04.16.28:429][162]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.22-04.16.28:429][162]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.22-04.16.28:482][162]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.22-04.16.28:483][162]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.22-04.16.28:483][162]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.22-04.16.28:483][162]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.22-04.16.28:483][162]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.22-04.16.28:483][162]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.22-04.16.28:483][162]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.22-04.16.28:484][162]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.22-04.16.28:550][162]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.22-04.16.28:551][162]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.22-04.16.28:552][162]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.22-04.16.28:653][162]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.22-04.16.28:753][162]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.22-04.16.28:753][162]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.22-04.16.28:753][162]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.22-04.16.28:753][162]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.22-04.16.28:753][162]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.22-04.16.28:753][162]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.22-04.16.28:754][162]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.22-04.16.28:755][162]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.22-04.16.28:757][162]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.22-04.16.28:757][162]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.22-04.16.28:758][162]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.22-04.16.28:759][162]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.22-04.16.28:802][162]LogDerivedDataCache: Shutdown
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.22-04.16.28:802][162]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.22-04.16.28:803][162]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.22-04.16.28:803][162]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.22-04.16.28:803][162]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.22-04.16.28:803][162]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26F2896A-4304-657E-DC5A-24AA4D249F50%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=19edfe624dd9663309ee66aebb83c4f4%7C0a49e6af0eed4aed83a62093d2dcebfc%7Cfa3d7fbc-39ba-41fd-8587-cc489c0af589&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.22-04.16.28:803][162]LogHttp: Warning: 00000150676BA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.22-04.16.28:803][162]LogHttp: Warning: 00000150676BA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.22-04.16.28:803][162]LogHttp: Warning: 00000150676BA200: libcurl info message cache 1 (Closing connection 12)
+[2017.09.22-04.16.28:830][162]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.22-04.16.28:832][162]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.22-04.16.28:833][162]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.22-04.16.28:836][162]LogExit: Exiting.
+[2017.09.22-04.16.28:852][162]Log file closed, 09/22/17 09:46:28
